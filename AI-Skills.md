@@ -1,9 +1,9 @@
 # AI Skills
 
-- Essential Math for Data Science, Ch 1-13
-- Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow 3rd Ed, Ch 1-17
-- A Quick Start Guide to LLMs 2nd Ed, Ch 1-4
-- Generative AI on AWS, Ch -12
+- A Quick Start Guide to LLMs 2nd Ed, Ch. 1-4
+- Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow 3rd Ed, Ch. 1-17
+- Generative AI on AWS, Ch. 1-12
+- Essential Math for Data Science, Ch. 1-13
 
 ## 1. Mathematics for Machine Learning/AI
 - Essential Math for Data Science
@@ -26,9 +26,10 @@
   - [Linear Algebra Done Right](https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw)
   - [AI Math YouTube Playlist](https://www.youtube.com/playlist?list=PLeM4O8deP8GO3vIx_9eboO9tVpUKHYqRg)
 
-## 2. Python and Python Data Analysis
+## 2. Python Data Analysis
 - Python Crash Course, 3rd Ed
 - Python for Data Analysis, 2nd Ed
+- Python Data Science Handbook, 2nd Ed
 - **OPTIONAL**
   - *Automate the Boring Stuff with Python, 3rd Ed*
   - *Python Data Science Handbook, 2nd Ed*
@@ -50,9 +51,11 @@
 ## 4. Machine Learning and Deep Learning
 - Data Science from Scratch, 2nd Ed
 - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Ed
+- Machine Learning with PyTorch and Scikit-Learn, 2nd Ed
 - **OPTIONAL**
   - Designing Machine Learning Systems (DMLS)
-  - Deep Learning Illustrated
+  - Deep Learning Illustrated, Jon Krohn & Grant Beyleveld
+  - Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD, Jeremy Howard & Sylvain Gugger
   - [Machine Learning from Scratch - Thomas Nield](https://learning.oreilly.com/live-events/machine-learning-from-scratch/0636920054754/0636920095746/) Aug 2023
   - [Deep Learning for Beginners in 3 Weeks - Thomas Nield](https://learning.oreilly.com/live-events/deep-learning-for-beginners-in-3-weeks/0636920079316/0636920096447/) Sep 2023
   - [Practical Deep Learning for Coders - Jeremy Howard](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU)
@@ -69,6 +72,7 @@
   - [A Hacker's Guide to LLM - Jeremy Howard](https://www.youtube.com/watch?v=jkrNMKz9pWU)
   - [From Software Engineer to AI Data Scientist - Ed Donner](https://learning.oreilly.com/live-events/from-software-engineer-to-ai-data-scientist/0642572007671/0642572010692/) Dec 2024
   - [Choosing the Right LLM - Ed Donner](https://learning.oreilly.com/live-events/choosing-the-right-llm/0642572002832/0642572010148/) Dec 2024
+  - [Large Language Models and ChatGPT in 3 Weeks](https://learning.oreilly.com/live-events/-/0636920090988/0642572010864/) Jan 2025
   - [Transformer Architectures for Generative AI - Sinan Ozdemir](https://learning.oreilly.com/live-events/transformer-architectures-for-generative-ai/0642572010589/0642572010588/) Dec 2024
   - [Deep Learning for Modern AI - Sinan Ozdemir](https://learning.oreilly.com/live-events/deep-learning-for-modern-ai/0642572005084/0642572010124/) Dec 2024
   - [LLMs, GPT, and Prompt Engineering for Developers - Sinan Ozdemir](https://learning.oreilly.com/live-events/llms-gpt-and-prompt-engineering-for-developers/0636920094338/0636920094337/) Sep 2023
