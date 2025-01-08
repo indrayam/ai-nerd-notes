@@ -1,5 +1,103 @@
 # AI Skills
 
-- Machine Learning
-- Deep Learning
-- Generative AI
+- Essential Math for Data Science, Ch 1-13
+- Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow 3rd Ed, Ch 1-17
+- A Quick Start Guide to LLMs 2nd Ed, Ch 1-4
+- Generative AI on AWS, Ch -12
+
+## 1. Mathematics for Machine Learning/AI
+- Essential Math for Data Science
+- [Linear Algebra for Machine Learning - Jon Krohn](https://learning.oreilly.com/course/linear-algebra-for/9780137398119/)
+- [Calculus for Machine Learning - Jon Krohn](https://learning.oreilly.com/course/calculus-for-machine/9780137398171/)
+- [The Essential Machine Learning Foundations: Math, Probability, Statistics, and Computer Science - Jon Krohn](https://learning.oreilly.com/course/the-essential-machine/9780137903245/)
+- **OPTIONAL**
+  - Linear Algebra Step-by-Step, Kuldeep Singh
+  - Practical Linear Algebra for Data Science, Mike Cohen
+  - Linear Algebra: Theory, Intuition, Code, Mike X Cohen
+  - Practical Statistics for Data Scientists, 2nd Ed - Andrew Bruce, Peter Bruce
+  - Math for Deep Learnig, Ronald T. Kneusel
+  - Bayesian Statistics the Fun Way, Will Kurt
+  - Before Machine Learning Vol 1 - Linear Algebra
+  - Mathematics for Machine Learning, Marc Peter Deisenroth
+  - [Calculus for Machine Learning: Intro (ML Foundations Series) - Jon Krohn](https://learning.oreilly.com/live-events/calculus-for-machine-learning-intro-ml-foundations-series/0636920059505/0790145076348/) May 2024
+  - [Linear Algebra with Python: Essential Math for Data Science - Michael Cullan](https://learning.oreilly.com/live-events/linear-algebra-with-python-essential-math-for-data-science/0636920303268/0636920363125/) Sep 2019, Feb 2020
+  - [Linear Algebra with Python: Essential Math for Data Science - Russell Martin](https://learning.oreilly.com/live-events/linear-algebra-with-python-essential-math-for-data-science/0636920303268/0636920303251/) Sep 2019, Feb 2020
+  - [Linear Regression with Python: Essential Math for Data Science - Michael Cullan](https://learning.oreilly.com/live-events/linear-regression-with-python-essential-math-for-data-science/0636920303282/0636920363163/) Feb 2020  
+  - [Linear Algebra Done Right](https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw)
+  - [AI Math YouTube Playlist](https://www.youtube.com/playlist?list=PLeM4O8deP8GO3vIx_9eboO9tVpUKHYqRg)
+
+## 2. Python and Python Data Analysis
+- Python Crash Course, 3rd Ed
+- Python for Data Analysis, 2nd Ed
+- **OPTIONAL**
+  - *Automate the Boring Stuff with Python, 3rd Ed*
+  - *Python Data Science Handbook, 2nd Ed*
+  - Fluent Python, 2nd Ed
+  - Python Testing with pytest, 2nd Ed
+
+## 3. AI Concepts 101
+- The Hundred-Page Machine Learning Book
+- The Hundred-Page Language Models Book
+- **OPTIONAL**
+  - How AI Works
+  - Engineer's Pocket Guide to Surviving AI
+  - The Complete Obsolete Guide to Generative AI
+  - A Simple Guide to Retrieval Augmented Generation
+  - A Damn Fine Stable Diffusion Book
+ 
+
+
+## 4. Machine Learning and Deep Learning
+- Data Science from Scratch, 2nd Ed
+- Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Ed
+- **OPTIONAL**
+  - Designing Machine Learning Systems (DMLS)
+  - Deep Learning Illustrated
+  - [Machine Learning from Scratch - Thomas Nield](https://learning.oreilly.com/live-events/machine-learning-from-scratch/0636920054754/0636920095746/) Aug 2023
+  - [Deep Learning for Beginners in 3 Weeks - Thomas Nield](https://learning.oreilly.com/live-events/deep-learning-for-beginners-in-3-weeks/0636920079316/0636920096447/) Sep 2023
+  - [Practical Deep Learning for Coders - Jeremy Howard](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU)
+  - [Practical Deep Learning Part 2 - Jeremy Howard](https://www.youtube.com/playlist?list=PLfYUBJiXbdtRUvTUYpLdfHHp9a58nWVXP)
+  - [Fundamentals of Machine Learning for Software Engineers](https://learning.oreilly.com/live-events/fundamentals-of-machine-learning-for-software-engineers/0790145079967/0642572005362/) Dec 2024
+  - [Explainable Machine Learning Models—with Interactivity](https://learning.oreilly.com/live-events/explainable-machine-learning-modelswith-interactivity/0636920061943/0636920085001/)
+
+## 5. Generative AI using Large Langugage Models (LLMs)
+- Quick Start Guide to Large Language Models
+- Generative AI on AWS
+- **OPTIONAL**
+  - AI Engineering (AIE)
+  - Amazon Bedrock in Action
+  - [A Hacker's Guide to LLM - Jeremy Howard](https://www.youtube.com/watch?v=jkrNMKz9pWU)
+  - [From Software Engineer to AI Data Scientist - Ed Donner](https://learning.oreilly.com/live-events/from-software-engineer-to-ai-data-scientist/0642572007671/0642572010692/) Dec 2024
+  - [Choosing the Right LLM - Ed Donner](https://learning.oreilly.com/live-events/choosing-the-right-llm/0642572002832/0642572010148/) Dec 2024
+  - [Transformer Architectures for Generative AI - Sinan Ozdemir](https://learning.oreilly.com/live-events/transformer-architectures-for-generative-ai/0642572010589/0642572010588/) Dec 2024
+  - [Deep Learning for Modern AI - Sinan Ozdemir](https://learning.oreilly.com/live-events/deep-learning-for-modern-ai/0642572005084/0642572010124/) Dec 2024
+  - [LLMs, GPT, and Prompt Engineering for Developers - Sinan Ozdemir](https://learning.oreilly.com/live-events/llms-gpt-and-prompt-engineering-for-developers/0636920094338/0636920094337/) Sep 2023
+  - [Using Open- and Closed-Source LLMs in Real World Applications - Sinan Ozdemir](https://learning.oreilly.com/live-events/using-open-and-closed-source-llms-in-real-world-applications/0636920094342/0636920094341/) Sep 2023, July 2024
+  - [Generative AI for Cloud Practitioners - Chad Smith](https://learning.oreilly.com/live-events/generative-ai-for-cloud-practitioners/0642572001983/0642572008116/) Nov 2024
+  - [AWS AI Practitioner Crash Course - Chad Smith](https://learning.oreilly.com/live-events/aws-ai-practitioner-crash-course/0642572009853/0642572009852/) Dec 2024
+  - [Fundamentals of Large Language Models: A hands-on approach in 2 Weeks - Jonathan Fernandes](https://learning.oreilly.com/live-events/fundamentals-of-large-language-models-a-hands-on-approach-in-2-weeks/0636920089792/0636920092359/) Aug/Sep 2023
+  - [Prompting Bootcamp](https://learning.oreilly.com/live-events/prompting-bootcamp/0636920097098/0642572010284/) Dec 2024
+  - [AI, ChatGPT, and other Large Language Models (LLMs) Security - Omar Santos](https://learning.oreilly.com/live-events/ai-chatgpt-and-other-large-language-models-llms-security/0636920092790/0636920096557/) Aug 2023
+
+## 6. AI Frameworks and Tools
+- Hugging Face in Action
+- LangChain in Action
+- Multi-Agent Systems with AutoGen 
+- Deep Learning with Python, 3rd Ed
+- **OPTIONAL**
+  - Deep Learning with PyTorch, 2nd Ed
+  - Neural Networks from Scratch in Python
+  - [Hands-On Deep Neural Networks with PyTorch - Robert Alvarez](https://learning.oreilly.com/live-events/hands-on-deep-neural-networks-with-pytorch/0636920305781/0636920093856/) Sep 2023
+  - [Introduction to Deep Learning with PyTorch - Sinan Ozdemir](https://learning.oreilly.com/live-events/introduction-to-deep-learning-with-pytorch/0636920086096/0636920092737/) Aug 2023
+  - [PyTorch 2.0 - Joe Papa](https://learning.oreilly.com/live-events/pytorch-20/0636920055927/0636920092412/) Sep 2023
+  - [Practical Introduction To The World Of Computer Vision And Deep Learning With TensorFlow & Keras - Richmond Alake](https://learning.oreilly.com/live-events/practical-introduction-to-the-world-of-computer-vision-and-deep-learning-with-tensorflow-keras/0636920060577/0636920061406/) Dec 2021
+
+## 7. GPU/CUDA Programming
+- Programming Massively Parallel Processors, 3rd Ed
+- GPU Programming with Python and CUDA
+- **Optional**
+  - [Getting Started with CUDA for Python Programmers - Jeremy Howard](https://www.youtube.com/watch?v=nOxKexn3iBo&t=357s&pp=ygUSamVyZW15IGhvd2FyZCBjdWRh)
+  - [Going Further with CUDA for Python Programmers - Jeremy Howard](https://www.youtube.com/watch?v=eUuGdh3nBGo&t=4s&pp=ygUSamVyZW15IGhvd2FyZCBjdWRh)
+
+## 8. AI Papers
+...
