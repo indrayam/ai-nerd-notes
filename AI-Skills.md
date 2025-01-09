@@ -4,22 +4,28 @@
 - A Quick Start Guide to LLMs 2nd Ed, Ch. 1-4
 - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow 3rd Ed, Ch. 1-17
 - Generative AI on AWS, Ch. 1-12
-- Essential Math for Data Science
-- Videos
+- AI Live Courses
+  - Sinan Ozdemiroglu's AI Live Courses
+    - [Large Language Models and ChatGPT in 3 Weeks](https://learning.oreilly.com/live-events/-/0636920090988/0642572010864/) Jan 2025 - [GitHub Code](https://github.com/sinanuozdemir/large-language-models-and-chatgpt-in-three-weeks)
+    - [Transformer Architectures for Generative AI - Sinan Ozdemir](https://learning.oreilly.com/live-events/transformer-architectures-for-generative-ai/0642572010589/0642572010588/) Dec 2024 - [GitHub Code](https://github.com/sinanuozdemir/foundations-of-gen-ai)
+    - [Deep Learning for Modern AI - Sinan Ozdemir](https://learning.oreilly.com/live-events/deep-learning-for-modern-ai/0642572005084/0642572010124/) Dec 2024
+    - [LLMs, GPT, and Prompt Engineering for Developers - Sinan Ozdemir](https://learning.oreilly.com/live-events/llms-gpt-and-prompt-engineering-for-developers/0636920094338/0636920094337/) Sep 2023
+    - [Using Open- and Closed-Source LLMs in Real World Applications - Sinan Ozdemir](https://learning.oreilly.com/live-events/using-open-and-closed-source-llms-in-real-world-applications/0636920094342/0636920094341/) Sep 2023, July 2024
+  - Ed Donner's AI Live Courses
+    - [From Software Engineer to AI Data Scientist - Ed Donner](https://learning.oreilly.com/live-events/from-software-engineer-to-ai-data-scientist/0642572007671/0642572010692/) Dec 2024
+    - [Choosing the Right LLM - Ed Donner](https://learning.oreilly.com/live-events/choosing-the-right-llm/0642572002832/0642572010148/) Dec 2024
+  - Chad Smith's AWS/AI Live Courses
+    - [Generative AI for Cloud Practitioners - Chad Smith](https://learning.oreilly.com/live-events/generative-ai-for-cloud-practitioners/0642572001983/0642572008116/) Nov 2024
+    - [AWS AI Practitioner Crash Course - Chad Smith](https://learning.oreilly.com/live-events/aws-ai-practitioner-crash-course/0642572009853/0642572009852/) Dec 2024
+- Essential AI Math
   - [3B1B: Essential Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
   - [3B1B: Essential Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
   - [Linear Algebra for Machine Learning - Jon Krohn](https://learning.oreilly.com/course/linear-algebra-for/9780137398119/)
   - [Probability and Statistics for Machine Learning - Jon Krohn](https://learning.oreilly.com/course/probability-and-statistics/9780137398126/)
   - [Calculus for Machine Learning - Jon Krohn](https://learning.oreilly.com/course/calculus-for-machine/9780137398171/)
   - [The Essential Machine Learning Foundations: Math, Probability, Statistics, and Computer Science - Jon Krohn](https://learning.oreilly.com/course/the-essential-machine/9780137903245/)
-  - [From Software Engineer to AI Data Scientist - Ed Donner](https://learning.oreilly.com/live-events/from-software-engineer-to-ai-data-scientist/0642572007671/0642572010692/) Dec 2024
-  - [Large Language Models and ChatGPT in 3 Weeks](https://learning.oreilly.com/live-events/-/0636920090988/0642572010864/) Jan 2025
-  - [Transformer Architectures for Generative AI - Sinan Ozdemir](https://learning.oreilly.com/live-events/transformer-architectures-for-generative-ai/0642572010589/0642572010588/) Dec 2024
-  - [Deep Learning for Modern AI - Sinan Ozdemir](https://learning.oreilly.com/live-events/deep-learning-for-modern-ai/0642572005084/0642572010124/) Dec 2024
-  - [LLMs, GPT, and Prompt Engineering for Developers - Sinan Ozdemir](https://learning.oreilly.com/live-events/llms-gpt-and-prompt-engineering-for-developers/0636920094338/0636920094337/) Sep 2023
-  - [Using Open- and Closed-Source LLMs in Real World Applications - Sinan Ozdemir](https://learning.oreilly.com/live-events/using-open-and-closed-source-llms-in-real-world-applications/0636920094342/0636920094341/) Sep 2023, July 2024
-  - [Generative AI for Cloud Practitioners - Chad Smith](https://learning.oreilly.com/live-events/generative-ai-for-cloud-practitioners/0642572001983/0642572008116/) Nov 2024
-  - [AWS AI Practitioner Crash Course - Chad Smith](https://learning.oreilly.com/live-events/aws-ai-practitioner-crash-course/0642572009853/0642572009852/) Dec 2024
+  - Essential Math for Data Science
+
 
 ## 1. Mathematics for Machine Learning/AI
 - Essential Math for Data Science
