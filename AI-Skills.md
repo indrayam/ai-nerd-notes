@@ -1,16 +1,37 @@
 # AI Skills
 
+## Working through Now (Q1, 2025)
 - A Quick Start Guide to LLMs 2nd Ed, Ch. 1-4
 - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow 3rd Ed, Ch. 1-17
 - Generative AI on AWS, Ch. 1-12
-- Essential Math for Data Science, Ch. 1-13
+- Essential Math for Data Science
+- Videos
+  - [3B1B: Essential Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+  - [3B1B: Essential Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+  - [Linear Algebra for Machine Learning - Jon Krohn](https://learning.oreilly.com/course/linear-algebra-for/9780137398119/)
+  - [Probability and Statistics for Machine Learning - Jon Krohn](https://learning.oreilly.com/course/probability-and-statistics/9780137398126/)
+  - [Calculus for Machine Learning - Jon Krohn](https://learning.oreilly.com/course/calculus-for-machine/9780137398171/)
+  - [The Essential Machine Learning Foundations: Math, Probability, Statistics, and Computer Science - Jon Krohn](https://learning.oreilly.com/course/the-essential-machine/9780137903245/)
+  - [From Software Engineer to AI Data Scientist - Ed Donner](https://learning.oreilly.com/live-events/from-software-engineer-to-ai-data-scientist/0642572007671/0642572010692/) Dec 2024
+  - [Large Language Models and ChatGPT in 3 Weeks](https://learning.oreilly.com/live-events/-/0636920090988/0642572010864/) Jan 2025
+  - [Transformer Architectures for Generative AI - Sinan Ozdemir](https://learning.oreilly.com/live-events/transformer-architectures-for-generative-ai/0642572010589/0642572010588/) Dec 2024
+  - [Deep Learning for Modern AI - Sinan Ozdemir](https://learning.oreilly.com/live-events/deep-learning-for-modern-ai/0642572005084/0642572010124/) Dec 2024
+  - [LLMs, GPT, and Prompt Engineering for Developers - Sinan Ozdemir](https://learning.oreilly.com/live-events/llms-gpt-and-prompt-engineering-for-developers/0636920094338/0636920094337/) Sep 2023
+  - [Using Open- and Closed-Source LLMs in Real World Applications - Sinan Ozdemir](https://learning.oreilly.com/live-events/using-open-and-closed-source-llms-in-real-world-applications/0636920094342/0636920094341/) Sep 2023, July 2024
+  - [Generative AI for Cloud Practitioners - Chad Smith](https://learning.oreilly.com/live-events/generative-ai-for-cloud-practitioners/0642572001983/0642572008116/) Nov 2024
+  - [AWS AI Practitioner Crash Course - Chad Smith](https://learning.oreilly.com/live-events/aws-ai-practitioner-crash-course/0642572009853/0642572009852/) Dec 2024
 
 ## 1. Mathematics for Machine Learning/AI
 - Essential Math for Data Science
+- Grant Sanderson's Playlists
+  - [Essential Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+  - [Essential Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 - [Linear Algebra for Machine Learning - Jon Krohn](https://learning.oreilly.com/course/linear-algebra-for/9780137398119/)
+- [Probability and Statistics for Machine Learning - Jon Krohn](https://learning.oreilly.com/course/probability-and-statistics/9780137398126/)
 - [Calculus for Machine Learning - Jon Krohn](https://learning.oreilly.com/course/calculus-for-machine/9780137398171/)
 - [The Essential Machine Learning Foundations: Math, Probability, Statistics, and Computer Science - Jon Krohn](https://learning.oreilly.com/course/the-essential-machine/9780137903245/)
 - **OPTIONAL**
+  - [AI Math YouTube Playlist](https://www.youtube.com/playlist?list=PLeM4O8deP8GO3vIx_9eboO9tVpUKHYqRg)
   - Linear Algebra Step-by-Step, Kuldeep Singh
   - Practical Linear Algebra for Data Science, Mike Cohen
   - Linear Algebra: Theory, Intuition, Code, Mike X Cohen
@@ -24,7 +45,6 @@
   - [Linear Algebra with Python: Essential Math for Data Science - Russell Martin](https://learning.oreilly.com/live-events/linear-algebra-with-python-essential-math-for-data-science/0636920303268/0636920303251/) Sep 2019, Feb 2020
   - [Linear Regression with Python: Essential Math for Data Science - Michael Cullan](https://learning.oreilly.com/live-events/linear-regression-with-python-essential-math-for-data-science/0636920303282/0636920363163/) Feb 2020  
   - [Linear Algebra Done Right](https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw)
-  - [AI Math YouTube Playlist](https://www.youtube.com/playlist?list=PLeM4O8deP8GO3vIx_9eboO9tVpUKHYqRg)
 
 ## 2. Python Data Analysis
 - Python Crash Course, 3rd Ed
@@ -64,10 +84,10 @@
   - [Explainable Machine Learning Models—with Interactivity](https://learning.oreilly.com/live-events/explainable-machine-learning-modelswith-interactivity/0636920061943/0636920085001/)
 
 ## 5. Generative AI using Large Langugage Models (LLMs)
-- Quick Start Guide to Large Language Models
+- Quick Start Guide to Large Language Models, Sinan Ozdemir
 - Generative AI on AWS
 - **OPTIONAL**
-  - AI Engineering (AIE)
+  - AI Engineering (AIE), Chip Huyen
   - Amazon Bedrock in Action
   - [A Hacker's Guide to LLM - Jeremy Howard](https://www.youtube.com/watch?v=jkrNMKz9pWU)
   - [From Software Engineer to AI Data Scientist - Ed Donner](https://learning.oreilly.com/live-events/from-software-engineer-to-ai-data-scientist/0642572007671/0642572010692/) Dec 2024
