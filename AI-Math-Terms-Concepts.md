@@ -14,7 +14,7 @@
   - Chain Rule
   - Optimization
 
-## Statistical Concepts
+## Probability & Statistics
   - Mean
   - Median
   - Mode

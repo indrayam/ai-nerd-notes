@@ -1,22 +1,32 @@
 # AI Skills
 
 ## Working through Now (Q1, 2025)
-- A Quick Start Guide to LLMs 2nd Ed, Ch. 1-4
-- Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow 3rd Ed, Ch. 1-17
-- Generative AI on AWS, Ch. 1-12
+- Books
+  - Hands-On Large Language Models, Language Understanding and Generation, Ch. 1-12
+  - A Quick Start Guide to LLMs 2nd Ed, Ch. 1-4
+  - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow 3rd Ed, Ch. 1-17
+  - Generative AI on AWS, Ch. 1-12
 - AI Live Courses
+  - Ilya Sutskever's 2024 NeurIPS Talk in Vancourver, Canada
+    - [Sequence to Sequence Learning with Neural Networks: What a Decade :-)](https://www.youtube.com/watch?v=1yvBqasHLZs)
   - Sinan Ozdemiroglu's AI Live Courses
     - [Large Language Models and ChatGPT in 3 Weeks](https://learning.oreilly.com/live-events/-/0636920090988/0642572010864/) Jan 2025 - [GitHub Code](https://github.com/sinanuozdemir/large-language-models-and-chatgpt-in-three-weeks)
     - [Transformer Architectures for Generative AI - Sinan Ozdemir](https://learning.oreilly.com/live-events/transformer-architectures-for-generative-ai/0642572010589/0642572010588/) Dec 2024 - [GitHub Code](https://github.com/sinanuozdemir/foundations-of-gen-ai)
     - [Deep Learning for Modern AI - Sinan Ozdemir](https://learning.oreilly.com/live-events/deep-learning-for-modern-ai/0642572005084/0642572010124/) Dec 2024
     - [LLMs, GPT, and Prompt Engineering for Developers - Sinan Ozdemir](https://learning.oreilly.com/live-events/llms-gpt-and-prompt-engineering-for-developers/0636920094338/0636920094337/) Sep 2023
     - [Using Open- and Closed-Source LLMs in Real World Applications - Sinan Ozdemir](https://learning.oreilly.com/live-events/using-open-and-closed-source-llms-in-real-world-applications/0636920094342/0636920094341/) Sep 2023, July 2024
+    - [Introduction to Deep Learning with PyTorch - Sinan Ozdemir](https://learning.oreilly.com/live-events/introduction-to-deep-learning-with-pytorch/0636920086096/0636920092737/)
+    - [Hands on Natural Language Generation and GPT - Sinan Ozdemir](https://learning.oreilly.com/live-events/hands-on-natural-language-generation-and-gpt/0636920061438/0636920086524/)
   - Ed Donner's AI Live Courses
     - [From Software Engineer to AI Data Scientist - Ed Donner](https://learning.oreilly.com/live-events/from-software-engineer-to-ai-data-scientist/0642572007671/0642572010692/) Dec 2024
     - [Choosing the Right LLM - Ed Donner](https://learning.oreilly.com/live-events/choosing-the-right-llm/0642572002832/0642572010148/) Dec 2024
+    - [Cisco Udemy: LLM Engineering: Master AI, Large Language Models & Agents](https://cisco.udemy.com/course/llm-engineering-master-ai-and-large-language-models/learn/lecture/46867711#overview)
   - Chad Smith's AWS/AI Live Courses
     - [Generative AI for Cloud Practitioners - Chad Smith](https://learning.oreilly.com/live-events/generative-ai-for-cloud-practitioners/0642572001983/0642572008116/) Nov 2024
     - [AWS AI Practitioner Crash Course - Chad Smith](https://learning.oreilly.com/live-events/aws-ai-practitioner-crash-course/0642572009853/0642572009852/) Dec 2024
+  - AI Tools and Frameworks Related Videos
+    - [Harnessing Ollama](https://learning.oreilly.com/course/harnessing-ollama/9781837020058/)
+    - [HuggingFace Fundamentals](https://learning.oreilly.com/course/harnessing-ollama/9781837020058/)
 - Essential AI Math
   - [3B1B: Essential Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
   - [3B1B: Essential Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
@@ -27,7 +37,7 @@
   - Essential Math for Data Science
 
 
-## 1. Mathematics for Machine Learning/AI
+## 1. Mathematics for AI/Machine Learning
 - Essential Math for Data Science
 - Grant Sanderson's Playlists
   - [Essential Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
@@ -118,7 +128,6 @@
   - Deep Learning with PyTorch, 2nd Ed
   - Neural Networks from Scratch in Python
   - [Hands-On Deep Neural Networks with PyTorch - Robert Alvarez](https://learning.oreilly.com/live-events/hands-on-deep-neural-networks-with-pytorch/0636920305781/0636920093856/) Sep 2023
-  - [Introduction to Deep Learning with PyTorch - Sinan Ozdemir](https://learning.oreilly.com/live-events/introduction-to-deep-learning-with-pytorch/0636920086096/0636920092737/) Aug 2023
   - [PyTorch 2.0 - Joe Papa](https://learning.oreilly.com/live-events/pytorch-20/0636920055927/0636920092412/) Sep 2023
   - [Practical Introduction To The World Of Computer Vision And Deep Learning With TensorFlow & Keras - Richmond Alake](https://learning.oreilly.com/live-events/practical-introduction-to-the-world-of-computer-vision-and-deep-learning-with-tensorflow-keras/0636920060577/0636920061406/) Dec 2021
 
@@ -131,3 +140,15 @@
 
 ## 8. AI Papers
 - [Latest Reading List](https://www.dropbox.com/scl/fo/2iah7adye9yx70u1keubq/AJ6c0z7Q5y4ZYVZOKmstO6o?rlkey=nq9w9fjx8wb71qi09gf03g45a&e=1&st=s437yxm3&dl=0)
+
+## AI References
+- Youtube Playlists
+  - [AS AI YouTube Playlist](https://www.youtube.com/playlist?list=PLYGGViEsFPrpYAeM4nRPSjMjUSLaRtw5O)
+  - [AS AI-Awesome YouTube Playlist](https://www.youtube.com/playlist?list=PLYGGViEsFPrrb3Zb3nhnjJhDl2FR_IuTQ)
+  - [AS NN-Understanding-Thru-FSD YouTube Playlist](https://www.youtube.com/playlist?list=PLYGGViEsFProYwNrO9NHtZez98910CEbo)
+  - [Jeremy Howard - Practical Deep Learning for Coders Playlist](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU)
+  - ...
+- Safari Live Courses
+  - [Build your own AI Lab](https://learning.oreilly.com/live-events/build-your-own-ai-lab/0642572007495/0642572011888/) Jan 2025
+  - [GenAI Foundations, Fine-Tuning, RAG, and LLM Application Development - Cisco DEs](https://learning.oreilly.com/live-events/genai-foundations-fine-tuning-rag-and-llm-application-development/0642572007597/0642572011384/)
+
