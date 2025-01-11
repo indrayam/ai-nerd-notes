@@ -24,17 +24,7 @@
   - Chad Smith's AWS/AI Live Courses
     - [Generative AI for Cloud Practitioners - Chad Smith](https://learning.oreilly.com/live-events/generative-ai-for-cloud-practitioners/0642572001983/0642572008116/) Nov 2024
     - [AWS AI Practitioner Crash Course - Chad Smith](https://learning.oreilly.com/live-events/aws-ai-practitioner-crash-course/0642572009853/0642572009852/) Dec 2024
-  - AI Tools and Frameworks Related Videos
-    - [Harnessing Ollama](https://learning.oreilly.com/course/harnessing-ollama/9781837020058/)
-    - [HuggingFace Fundamentals](https://learning.oreilly.com/course/harnessing-ollama/9781837020058/)
-- Essential AI Math
-  - [3B1B: Essential Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-  - [3B1B: Essential Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
-  - [Linear Algebra for Machine Learning - Jon Krohn](https://learning.oreilly.com/course/linear-algebra-for/9780137398119/)
-  - [Probability and Statistics for Machine Learning - Jon Krohn](https://learning.oreilly.com/course/probability-and-statistics/9780137398126/)
-  - [Calculus for Machine Learning - Jon Krohn](https://learning.oreilly.com/course/calculus-for-machine/9780137398171/)
-  - [The Essential Machine Learning Foundations: Math, Probability, Statistics, and Computer Science - Jon Krohn](https://learning.oreilly.com/course/the-essential-machine/9780137903245/)
-  - Essential Math for Data Science
+
 
 
 ## 1. Mathematics for AI/Machine Learning
@@ -74,23 +64,21 @@
 
 ## 3. AI Concepts 101
 - The Hundred-Page Machine Learning Book
-- The Hundred-Page Language Models Book
+- Engineer's Pocket Guide to Surviving AI
+- A Simple Guide to Retrieval Augmented Generation
+- A Damn Fine Stable Diffusion Book
 - **OPTIONAL**
-  - How AI Works
-  - Engineer's Pocket Guide to Surviving AI
+  - The Hundred-Page Language Models Book
   - The Complete Obsolete Guide to Generative AI
-  - A Simple Guide to Retrieval Augmented Generation
-  - A Damn Fine Stable Diffusion Book
- 
-
+  - How AI Works
 
 ## 4. Machine Learning and Deep Learning
-- Data Science from Scratch, 2nd Ed
 - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Ed
 - Machine Learning with PyTorch and Scikit-Learn, 2nd Ed
+- Deep Learning Illustrated, Jon Krohn & Grant Beyleveld
 - **OPTIONAL**
+  - Data Science from Scratch, 2nd Ed
   - Designing Machine Learning Systems (DMLS)
-  - Deep Learning Illustrated, Jon Krohn & Grant Beyleveld
   - Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD, Jeremy Howard & Sylvain Gugger
   - [Machine Learning from Scratch - Thomas Nield](https://learning.oreilly.com/live-events/machine-learning-from-scratch/0636920054754/0636920095746/) Aug 2023
   - [Deep Learning for Beginners in 3 Weeks - Thomas Nield](https://learning.oreilly.com/live-events/deep-learning-for-beginners-in-3-weeks/0636920079316/0636920096447/) Sep 2023
@@ -100,10 +88,13 @@
   - [Explainable Machine Learning Models—with Interactivity](https://learning.oreilly.com/live-events/explainable-machine-learning-modelswith-interactivity/0636920061943/0636920085001/)
 
 ## 5. Generative AI using Large Langugage Models (LLMs)
+- Hands-On Large Language Models, Jay Alammar
 - Quick Start Guide to Large Language Models, Sinan Ozdemir
-- Generative AI on AWS
+- LLM Engineer's Handbook
+- Build a Large Language Model from Scratch - Sebastian Raschka
 - **OPTIONAL**
   - AI Engineering (AIE), Chip Huyen
+  - Generative AI on AWS
   - Amazon Bedrock in Action
   - [A Hacker's Guide to LLM - Jeremy Howard](https://www.youtube.com/watch?v=jkrNMKz9pWU)
   - [From Software Engineer to AI Data Scientist - Ed Donner](https://learning.oreilly.com/live-events/from-software-engineer-to-ai-data-scientist/0642572007671/0642572010692/) Dec 2024
@@ -119,14 +110,16 @@
   - [Prompting Bootcamp](https://learning.oreilly.com/live-events/prompting-bootcamp/0636920097098/0642572010284/) Dec 2024
   - [AI, ChatGPT, and other Large Language Models (LLMs) Security - Omar Santos](https://learning.oreilly.com/live-events/ai-chatgpt-and-other-large-language-models-llms-security/0636920092790/0636920096557/) Aug 2023
 
-## 6. AI Frameworks and Tools
+## 6. AI Applications
+- Deep Learning with Python, 3rd Ed
+- Deep Learning with PyTorch, 2nd Ed
 - Hugging Face in Action
 - LangChain in Action
 - Multi-Agent Systems with AutoGen 
-- Deep Learning with Python, 3rd Ed
 - **OPTIONAL**
-  - Deep Learning with PyTorch, 2nd Ed
   - Neural Networks from Scratch in Python
+  - [Harnessing Ollama](https://learning.oreilly.com/course/harnessing-ollama/9781837020058/)
+  - [HuggingFace Fundamentals](https://learning.oreilly.com/course/harnessing-ollama/9781837020058/)
   - [Hands-On Deep Neural Networks with PyTorch - Robert Alvarez](https://learning.oreilly.com/live-events/hands-on-deep-neural-networks-with-pytorch/0636920305781/0636920093856/) Sep 2023
   - [PyTorch 2.0 - Joe Papa](https://learning.oreilly.com/live-events/pytorch-20/0636920055927/0636920092412/) Sep 2023
   - [Practical Introduction To The World Of Computer Vision And Deep Learning With TensorFlow & Keras - Richmond Alake](https://learning.oreilly.com/live-events/practical-introduction-to-the-world-of-computer-vision-and-deep-learning-with-tensorflow-keras/0636920060577/0636920061406/) Dec 2021
@@ -138,17 +131,15 @@
   - [Getting Started with CUDA for Python Programmers - Jeremy Howard](https://www.youtube.com/watch?v=nOxKexn3iBo&t=357s&pp=ygUSamVyZW15IGhvd2FyZCBjdWRh)
   - [Going Further with CUDA for Python Programmers - Jeremy Howard](https://www.youtube.com/watch?v=eUuGdh3nBGo&t=4s&pp=ygUSamVyZW15IGhvd2FyZCBjdWRh)
 
-## 8. AI Papers
-- [Latest Reading List](https://www.dropbox.com/scl/fo/2iah7adye9yx70u1keubq/AJ6c0z7Q5y4ZYVZOKmstO6o?rlkey=nq9w9fjx8wb71qi09gf03g45a&e=1&st=s437yxm3&dl=0)
-
-## AI References
+## 8. AI References
+- [AI Papers](https://www.dropbox.com/scl/fo/2iah7adye9yx70u1keubq/AJ6c0z7Q5y4ZYVZOKmstO6o?rlkey=nq9w9fjx8wb71qi09gf03g45a&e=1&st=s437yxm3&dl=0)
 - Youtube Playlists
   - [AS AI YouTube Playlist](https://www.youtube.com/playlist?list=PLYGGViEsFPrpYAeM4nRPSjMjUSLaRtw5O)
   - [AS AI-Awesome YouTube Playlist](https://www.youtube.com/playlist?list=PLYGGViEsFPrrb3Zb3nhnjJhDl2FR_IuTQ)
   - [AS NN-Understanding-Thru-FSD YouTube Playlist](https://www.youtube.com/playlist?list=PLYGGViEsFProYwNrO9NHtZez98910CEbo)
   - [Jeremy Howard - Practical Deep Learning for Coders Playlist](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU)
   - ...
-- Safari Live Courses
+- More Safari Live Courses
   - [Build your own AI Lab](https://learning.oreilly.com/live-events/build-your-own-ai-lab/0642572007495/0642572011888/) Jan 2025
   - [GenAI Foundations, Fine-Tuning, RAG, and LLM Application Development - Cisco DEs](https://learning.oreilly.com/live-events/genai-foundations-fine-tuning-rag-and-llm-application-development/0642572007597/0642572011384/)
 
