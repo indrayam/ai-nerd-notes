@@ -26,7 +26,6 @@
     - [AWS AI Practitioner Crash Course - Chad Smith](https://learning.oreilly.com/live-events/aws-ai-practitioner-crash-course/0642572009853/0642572009852/) Dec 2024
 
 
-
 ## 1. Mathematics for AI/Machine Learning
 - Essential Math for Data Science
 - Grant Sanderson's Playlists
@@ -38,6 +37,7 @@
 - [The Essential Machine Learning Foundations: Math, Probability, Statistics, and Computer Science - Jon Krohn](https://learning.oreilly.com/course/the-essential-machine/9780137903245/)
 - **OPTIONAL**
   - [AI Math YouTube Playlist](https://www.youtube.com/playlist?list=PLeM4O8deP8GO3vIx_9eboO9tVpUKHYqRg)
+  - Numerical Python 2nd Ed, Robert Johansson 
   - Linear Algebra Step-by-Step, Kuldeep Singh
   - Practical Linear Algebra for Data Science, Mike Cohen
   - Linear Algebra: Theory, Intuition, Code, Mike X Cohen
@@ -119,7 +119,10 @@
 - **OPTIONAL**
   - Neural Networks from Scratch in Python
   - [Harnessing Ollama](https://learning.oreilly.com/course/harnessing-ollama/9781837020058/)
-  - [HuggingFace Fundamentals](https://learning.oreilly.com/course/harnessing-ollama/9781837020058/)
+  - [Hugging Face Fundamentals for Machine Learning](https://learning.oreilly.com/live-events/hugging-face-fundamentals-for-machine-learning/0642572010327/) Dec 2024
+  - [Stanford CS224N NLP With Deep Learning - Hugging Face Tutorial](https://www.youtube.com/watch?v=b80by3Xk_A8)
+  - [Applied Hugging Face](https://learning.oreilly.com/videos/applied-hugging-face/10212022VIDEOPAIML/)
+  - [Hugging Face for MLOps](https://learning.oreilly.com/course/hugging-face-for/28189144VIDEOPAIML/)
   - [Hands-On Deep Neural Networks with PyTorch - Robert Alvarez](https://learning.oreilly.com/live-events/hands-on-deep-neural-networks-with-pytorch/0636920305781/0636920093856/) Sep 2023
   - [PyTorch 2.0 - Joe Papa](https://learning.oreilly.com/live-events/pytorch-20/0636920055927/0636920092412/) Sep 2023
   - [Practical Introduction To The World Of Computer Vision And Deep Learning With TensorFlow & Keras - Richmond Alake](https://learning.oreilly.com/live-events/practical-introduction-to-the-world-of-computer-vision-and-deep-learning-with-tensorflow-keras/0636920060577/0636920061406/) Dec 2021
@@ -130,6 +133,10 @@
 - **Optional**
   - [Getting Started with CUDA for Python Programmers - Jeremy Howard](https://www.youtube.com/watch?v=nOxKexn3iBo&t=357s&pp=ygUSamVyZW15IGhvd2FyZCBjdWRh)
   - [Going Further with CUDA for Python Programmers - Jeremy Howard](https://www.youtube.com/watch?v=eUuGdh3nBGo&t=4s&pp=ygUSamVyZW15IGhvd2FyZCBjdWRh)
+  - Professional CUDA C Programming
+  - 21st Century C 2nd Ed
+  - Understanding and Using C Pointers
+  - 
 
 ## 8. AI References
 - [AI Papers](https://www.dropbox.com/scl/fo/2iah7adye9yx70u1keubq/AJ6c0z7Q5y4ZYVZOKmstO6o?rlkey=nq9w9fjx8wb71qi09gf03g45a&e=1&st=s437yxm3&dl=0)
