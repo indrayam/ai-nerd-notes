@@ -4,13 +4,16 @@
 - Intro Using PowerPoint
 - CLI
     - Locally Hosted Models
-        - ollama
+        - `ollama`
     - Cloud Hosted Models
-        - llm
+        - `llm`
 - 3 Concepts of Locally Hosted Models
     - Run it locally
-    - Text to Text, Image to Text
-    - Custom Models
+        - Text to Text, Image to Text
+    - Security and Privacy
+        - No data leakage
+    - Greater configurability
+        - Custom Models
 - 3 Concepts
     - Tokenization
     - Embeddings

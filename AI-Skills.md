@@ -5,7 +5,6 @@
   - Hands-On Large Language Models, Language Understanding and Generation, Ch. 1-12
   - A Quick Start Guide to LLMs 2nd Ed, Ch. 1-4
   - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow 3rd Ed, Ch. 1-17
-  - Generative AI on AWS, Ch. 1-12
 - AI Live Courses
   - Ilya Sutskever's 2024 NeurIPS Talk in Vancourver, Canada
     - [Sequence to Sequence Learning with Neural Networks: What a Decade :-)](https://www.youtube.com/watch?v=1yvBqasHLZs)
