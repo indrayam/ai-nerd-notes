@@ -25,7 +25,6 @@
     - [Generative AI for Cloud Practitioners - Chad Smith](https://learning.oreilly.com/live-events/generative-ai-for-cloud-practitioners/0642572001983/0642572008116/) Nov 2024
     - [AWS AI Practitioner Crash Course - Chad Smith](https://learning.oreilly.com/live-events/aws-ai-practitioner-crash-course/0642572009853/0642572009852/) Dec 2024
 
-
 ## 1. Mathematics for AI/Machine Learning
 - Essential Math for Data Science
 - Grant Sanderson's Playlists
@@ -110,7 +109,7 @@
   - [Prompting Bootcamp](https://learning.oreilly.com/live-events/prompting-bootcamp/0636920097098/0642572010284/) Dec 2024
   - [AI, ChatGPT, and other Large Language Models (LLMs) Security - Omar Santos](https://learning.oreilly.com/live-events/ai-chatgpt-and-other-large-language-models-llms-security/0636920092790/0636920096557/) Aug 2023
 
-## 6. AI Applications
+## 6. Hands-On AI
 - Deep Learning with Python, 3rd Ed
 - Deep Learning with PyTorch, 2nd Ed
 - Hugging Face in Action
@@ -119,6 +118,7 @@
 - **OPTIONAL**
   - Neural Networks from Scratch in Python
   - [Harnessing Ollama](https://learning.oreilly.com/course/harnessing-ollama/9781837020058/)
+  - [Importing Open Source Models to Ollama](https://www.youtube.com/watch?v=fnvZJU5Fj3Q&t=286s)
   - [Hugging Face Fundamentals for Machine Learning](https://learning.oreilly.com/live-events/hugging-face-fundamentals-for-machine-learning/0642572010327/) Dec 2024
   - [Stanford CS224N NLP With Deep Learning - Hugging Face Tutorial](https://www.youtube.com/watch?v=b80by3Xk_A8)
   - [Applied Hugging Face](https://learning.oreilly.com/videos/applied-hugging-face/10212022VIDEOPAIML/)

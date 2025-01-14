@@ -1,6 +1,6 @@
 # ollama
 
-# Useful Commands
+## Download the Models
 
 ```bash
 ollama --version
@@ -21,11 +21,21 @@ ollama ps
 
 ```
 
-Run the models
+## Run the models
 
 ```bash
 ollama run llava
 ollama run llava "What's in this image? /Users/anasharm/Downloads/cisco-catalyst.png"
-ollama run llama3.2 "Summarize this file: $(cat jq.md)"
+ollama run llama3.2 "Create a very terse summary of this file: $(cat README.md)"
 cd ~/.ollama/models/
 ```
+
+## Invoke the API
+
+```bash
+curl -s http://localhost:11434/api/generate -d @generate-payload.json | jq .
+curl -s http://localhost:11434/api/chat -d @chat-payload.json | jq .
+# OR
+curl -s http://localhost:11434/api/generate -d '{ "model": "llama3.2", "prompt": "Why is the sky blue?", "stream": false}' | jq .
+```
+

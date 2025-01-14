@@ -49,6 +49,8 @@ llm -m 2-flash describe -a https://static.simonwillison.net/static/2024/pelicans
 ```bash
 llm -m gemini-2.0-flash-thinking-exp-1219 "Generate an SVG of a pelican riding a bicycle"
 llm -m 2-flash -a https://arxiv.org/pdf/1902.08318 "a bullet point list of the most unusual ideas"
+llm -m 2-flash -a https://arxiv.org/pdf/2501.06425 "a bullet point list of the most unusual ideas"
+
 ```
 
 ```bash
@@ -74,6 +76,7 @@ llm collection path
 llm embed play-small test1 -c 'Hello, World' --store
 llm embed play-small test2 -c 'It is nice to say hello to the world!' --store
 llm collections list
+llm similar nerd-notes -c 'algebra' | jq .
 datasette '/Users/anasharm/Library/Application Support/io.datasette.llm/embeddings.db'
 
 ```
@@ -83,6 +86,7 @@ datasette '/Users/anasharm/Library/Application Support/io.datasette.llm/embeddin
 ```bash
 llm cmd use ffmpeg to convert file.aac to mp3
 llm cmd undo last git commit
+llm cmd use jq to generate a new JSON from GitHub Issues API
 ```
 
 ## LLM Plugins
