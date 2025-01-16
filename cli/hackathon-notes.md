@@ -1,33 +1,31 @@
 # Hackathon Demo Q2 2025 Edition
 
+## My Setup
+- **Office Laptop:** 16" MacBook M1 Pro running Sequoia 15.1.1 with 16 GB RAM and 500 GB HDD
+- **Homelab (aka The Beast):** Custom-built Tower with 13th Gen Intel i9-13900KF 24 Core Processor, Nvidia GeForce RTX 4090, 128 GB RAM, 4 TB HDD running Ubuntu 24.04.1 LTS
+- **AI-centric CLI Tools:** 
+    - `llm`
+    - `ttok`
+    - `ollama`
 ## Agenda
-- Intro Using PowerPoint
+- [Intro PowerPoint Deck](https://cisco.sharepoint.com/:p:/r/sites/InternalEDaaS/Shared%20Documents/EDaaS%20Architecture/FY24/2025-01-17-EDaaS-Hackathon-Taming-AI-with-CLI/2025-01-16-Taming-17527-with-110817-Final.pptx?d=w3ec52dc4e38943649e2862b4acbbd29e&csf=1&web=1&e=JfCy7E)
 - CLI
     - Locally Hosted Models
         - `ollama`
     - Cloud Hosted Models
         - `llm`
-- 3 Concepts of Locally Hosted Models
-    - Run it locally
-        - Text to Text, Image to Text
-    - Security and Privacy
-        - No data leakage
-    - Greater configurability
-        - Custom Models
-- 3 Concepts
+- 2 Key Concepts
     - Tokenization
     - Embeddings
-        - Similarity tests
-    - Language Models with multi-modality
-        - Text to Text
-        - Image to Text
+- Locally Hosted Models
+- Cloud Hosted Models
 - Interesting use cases
     - Semantic/Similarity Search
     - Sentiment Analysis
     - Summarize
     - Productivity boosts (Reduce toil)
 
-## 1. Text Encoding
+## Key Concept: Text Encoding
 
 - CLI used: `ttok`
 
@@ -43,7 +41,7 @@ ttok స్త్రీ -m gpt2
 ttok స్త్రీ -m gpt-4o
 ```
 
-## 2. Embeddings
+## Key Concept: Embeddings
 
 - CLI used: `llm`
 
@@ -64,7 +62,7 @@ llm similar play-small test1
 llm similar play-small test3
 ```
 
-## 3. Models hosted locally (or LAN)
+## Models hosted locally (or LAN)
 
 - CLI used: `ollama`
 
@@ -79,7 +77,7 @@ o run anand-llama
 curl -s http://localhost:11434/api/generate -d @generate-payload.json | jq .
 ```
 
-## 4. Models hosted in the Cloud
+## Models hosted in the Cloud
 
 - CLI used: `llm`
 
