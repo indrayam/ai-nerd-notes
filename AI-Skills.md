@@ -62,11 +62,11 @@
 
 ## 3. AI Concepts 101
 - The Hundred-Page Machine Learning Book
+- [The Hundred-Page Language Models Book](https://thelmbook.com/#)
 - Engineer's Pocket Guide to Surviving AI
 - A Simple Guide to Retrieval Augmented Generation
 - A Damn Fine Stable Diffusion Book
 - **OPTIONAL**
-  - The Hundred-Page Language Models Book
   - The Complete Obsolete Guide to Generative AI
   - How AI Works
 
@@ -78,8 +78,8 @@
   - Data Science from Scratch, 2nd Ed
   - Designing Machine Learning Systems (DMLS)
   - Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD, Jeremy Howard & Sylvain Gugger
-  - [Machine Learning from Scratch - Thomas Nield](https://learning.oreilly.com/live-events/machine-learning-from-scratch/0636920054754/0636920095746/) Aug 2023
-  - [Deep Learning for Beginners in 3 Weeks - Thomas Nield](https://learning.oreilly.com/live-events/deep-learning-for-beginners-in-3-weeks/0636920079316/0636920096447/) Sep 2023
+  - [Machine Learning from Scratch - Thomas Nield](https://learning.oreilly.com/live-events/machine-learning-from-scratch/0636920054754/0636920095746/) Feb 2025, Aug 2023
+  - [Deep Learning for Beginners in 3 Weeks - Thomas Nield](https://learning.oreilly.com/live-events/deep-learning-for-beginners-in-3-weeks/0636920079316/0636920096447/) Jan 2025, Sep 2023
   - [Practical Deep Learning for Coders - Jeremy Howard](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU)
   - [Practical Deep Learning Part 2 - Jeremy Howard](https://www.youtube.com/playlist?list=PLfYUBJiXbdtRUvTUYpLdfHHp9a58nWVXP)
   - [Fundamentals of Machine Learning for Software Engineers](https://learning.oreilly.com/live-events/fundamentals-of-machine-learning-for-software-engineers/0790145079967/0642572005362/) Dec 2024

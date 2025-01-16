@@ -66,7 +66,7 @@ llm -m groq-llama-3.3-70b "Ten absurd names for an IT team that delivers DevOps 
 ## AI Embeddings
 
 ```bash
-llm embed-models
+llm embed-models list
 llm embed-models default 3-small
 llm embed -m ada -c "Hello World"
 llm embed -m 3-small -c "Hello World"

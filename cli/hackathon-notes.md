@@ -22,7 +22,7 @@
         - Text to Text
         - Image to Text
 - Interesting use cases
-    - Similarity Search
+    - Semantic/Similarity Search
     - Sentiment Analysis
     - Summarize
     - Productivity boosts (Reduce toil)
@@ -32,15 +32,15 @@
 - CLI used: `ttok`
 
 ```bash
-ttok boo Hello there this is
-ttok boo Hello there this is -m gp2
-ttok boo Hello there this is -m gpt2
-ttok boo Hello there this is -m gpt-4o-mini
-ttok boo Hello there this is -m gpt-4o
-ttok आनंद 
-ttok आनंद -m gpt2
-ttok आनंद -m gpt-4o
-ttok आनंद -m gpt-4o-mini
+ttok Hello World -m gpt-4o
+ttok Hello World -m gpt-4o --encode # Use it for decoding
+ttok Hello World -m gpt-4o --tokens # Discuss the space
+ttok 13225 5922 --decode -m gpt-4o # Use the PowerPoint number
+ttok 175727 --decode # Oops
+ttok 175727 --decode -m gpt-4o
+ttok స్త్రీ
+ttok స్త్రీ -m gpt2
+ttok స్త్రీ -m gpt-4o
 ```
 
 ## 2. Embeddings
@@ -48,17 +48,20 @@ ttok आनंद -m gpt-4o-mini
 - CLI used: `llm`
 
 ```bash
-llm embed-models
+llm embed-models list
 llm embed-models default
-llm embed -m ada -c "Hello World"
-llm embed -m 3-small -c "Hello World"
+llm embed-models default mxbai-embed-large
+llm embed -m 3-small -c "Hello World" #1536 dimensions
+llm embed -c "Hello World" #1024 dimensions
 # Storing in collections
 llm collections list
 llm collection path
 llm embed play-small test1 -c 'Hello, World' --store
 llm embed play-small test2 -c 'It is nice to say hello to the world!' --store
-llm collections list
-llm similar nerd-notes -c 'algebra' | jq .
+llm embed play-small test3 -c 'Not having a good day' --store
+# Use select id, llm_embed_decode(embedding) from embeddings in datasette
+llm similar play-small test1
+llm similar play-small test3
 ```
 
 ## 3. Models hosted locally (or LAN)
@@ -86,11 +89,13 @@ llm -m 4o "Ten absurd names for an IT team that delivers DevOps services in an o
 
 # Basic Image to text generation
 llm -m 2-flash describe -a https://static.simonwillison.net/static/2024/pelicans.jpg
+llm -m 4o "Can you help me better understand what the command shown in the image above does" -a https://us-east-1-anand-files.s3.us-east-1.amazonaws.com/play/mac-keyboard-settings.jpg
 
 # Advanced Text Generation
 ## Summarize Nerdy Stuff
 llm -m 2-flash -a https://arxiv.org/pdf/1902.08318 "a bullet point list of the most unusual ideas"
 llm -m 2-flash -a https://arxiv.org/pdf/2501.06425 "a bullet point list of the most unusual ideas"
+llm -m 2-flash -a https://arxiv.org/pdf/2501.00663 "a bullet point list of the most unusual ideas"
 ## Summarize Long Articles
 curl -s 'https://en.wikipedia.org/wiki/Hyperion_(Simmons_novel)' | strip-tags .mw-body-content | ttok -t 4000 | llm --system 'Write a brief summary of the content'
 curl -s 'https://en.wikipedia.org/wiki/The_Matrix' | strip-tags .mw-body-content | ttok -t 4000 | llm --system 'Write a brief summary of the content'

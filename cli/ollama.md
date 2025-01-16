@@ -1,5 +1,39 @@
 # ollama
 
+## Install
+
+
+```bash
+# On Linux
+curl -fsSL https://ollama.com/install.sh | sh
+# Use the same command to update
+
+```
+
+## Ollama Service
+
+```bash
+# If you need to look at the ollama service settings
+sudo vim /etc/systemd/system/ollama.service
+
+# You can add additional environment variables to the service file
+# [Service]
+# ExecStart=/usr/local/bin/ollama serve
+# User=ollama
+# Group=ollama
+# Restart=always
+# RestartSec=3
+# Environment="OLLAMA_HOST=0.0.0.0"
+# Environment="PATH=..."
+
+sudo systemctl daemon-reload
+sudo systemctl enable ollama
+sudo systemctl stop ollama
+sudo systemctl start ollama
+sudo systemctl status ollama
+
+```
+
 ## Download the Models
 
 ```bash
@@ -38,4 +72,6 @@ curl -s http://localhost:11434/api/chat -d @chat-payload.json | jq .
 # OR
 curl -s http://localhost:11434/api/generate -d '{ "model": "llama3.2", "prompt": "Why is the sky blue?", "stream": false}' | jq .
 ```
+
+
 

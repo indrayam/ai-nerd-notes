@@ -1,5 +1,11 @@
 # AI Lingo
 
+## Creating a Model
+- Another model
+- A safetensors directory
+- A GGUF file
+- Quantization
+
 ## Basic Definitions and Concepts
 - Artificial Learning
 - Machine Learning
