@@ -5,7 +5,7 @@
 - **Homelab (aka The Beast):** Custom-built Tower with 13th Gen Intel i9-13900KF 24 Core Processor, Nvidia GeForce RTX 4090, 128 GB RAM, 4 TB HDD running Ubuntu 24.04.1 LTS
 - **AI-centric CLI Tools:** 
     - `llm`
-    - `ttok`
+        - `ttok`
     - `ollama`
 ## Agenda
 - [Intro PowerPoint Deck](https://cisco.sharepoint.com/:p:/r/sites/InternalEDaaS/Shared%20Documents/EDaaS%20Architecture/FY24/2025-01-17-EDaaS-Hackathon-Taming-AI-with-CLI/2025-01-16-Taming-17527-with-110817-Final.pptx?d=w3ec52dc4e38943649e2862b4acbbd29e&csf=1&web=1&e=JfCy7E)
