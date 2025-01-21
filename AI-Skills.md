@@ -1,13 +1,16 @@
 # AI Skills
 
-## Working through Now (Q1, 2025)
+## Reading Now...
 - Books
+  - Grokking Machine Learning
+  - The Hundred-Page Machine Learning Book
+  - The Hundred-Page Language Models Book
   - Hands-On Large Language Models, Language Understanding and Generation, Ch. 1-12
   - A Quick Start Guide to LLMs 2nd Ed, Ch. 1-4
   - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow 3rd Ed, Ch. 1-17
+  - Build a Large Language Model from Scratch - Sebastian Raschka
+  - LLM Engineer's Handbook
 - AI Live Courses
-  - Ilya Sutskever's 2024 NeurIPS Talk in Vancourver, Canada
-    - [Sequence to Sequence Learning with Neural Networks: What a Decade :-)](https://www.youtube.com/watch?v=1yvBqasHLZs)
   - Sinan Ozdemiroglu's AI Live Courses
     - [Large Language Models and ChatGPT in 3 Weeks](https://learning.oreilly.com/live-events/-/0636920090988/0642572010864/) Jan 2025 - [GitHub Code](https://github.com/sinanuozdemir/large-language-models-and-chatgpt-in-three-weeks)
     - [Transformer Architectures for Generative AI - Sinan Ozdemir](https://learning.oreilly.com/live-events/transformer-architectures-for-generative-ai/0642572010589/0642572010588/) Dec 2024 - [GitHub Code](https://github.com/sinanuozdemir/foundations-of-gen-ai)
@@ -61,8 +64,10 @@
   - Python Testing with pytest, 2nd Ed
 
 ## 3. AI Concepts 101
+- Grokking Machine Learning
+- Grokking Deep Learning
 - The Hundred-Page Machine Learning Book
-- [The Hundred-Page Language Models Book](https://thelmbook.com/#)
+- The Hundred-Page Language Models Book
 - Engineer's Pocket Guide to Surviving AI
 - A Simple Guide to Retrieval Augmented Generation
 - A Damn Fine Stable Diffusion Book
@@ -148,4 +153,5 @@
 - More Safari Live Courses
   - [Build your own AI Lab](https://learning.oreilly.com/live-events/build-your-own-ai-lab/0642572007495/0642572011888/) Jan 2025
   - [GenAI Foundations, Fine-Tuning, RAG, and LLM Application Development - Cisco DEs](https://learning.oreilly.com/live-events/genai-foundations-fine-tuning-rag-and-llm-application-development/0642572007597/0642572011384/)
+
 
