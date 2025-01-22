@@ -10,17 +10,8 @@ llm --help
 llm aliases
 llm plugins --help
 llm plugins
+llm install llm-gpt4all
 llm install -U llm-gpt4all
-llm install -U llm-gguf
-llm install -U llm-ollama
-llm install -U llm-gemini
-# To update the model
-llm install -U llm-gemini
-llm install -U llm-claude-3
-# To update the model
-llm install -U llm-claude-3
-llm install -U llm-clip
-llm install -U llm-groq
 llm keys
 llm keys path
 llm keys set gemini
@@ -92,16 +83,22 @@ llm cmd use jq to generate a new JSON from GitHub Issues API
 ## LLM Plugins
 
 ```bash
+{
 llm install -U llm-gpt4all
 llm install -U llm-gemini
+llm install -U llm-gguf
 llm install -U llm-ollama
+llm install -U llm-gemini
 llm install -U llm-claude
 llm install -U llm-claude-3
+llm install -U llm-clip
 llm install -U llm-groq
-# Refer to the llm CLI Setup page for specific ways to install llm-sentence-transformers (https://llm.datasette.io/en/stable/setup.html)
 llm install -U llm-sentence-transformers
 llm install -U llm-cmd
 llm install -U llm-clip
+llm install -U llm-python
+llm install -U llm-jq
+}
 #llm install -U llm-bedrock-anthropic
 #llm install -U llm-bedrock-meta
 ```

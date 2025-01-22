@@ -145,11 +145,47 @@
 ## 8. AI References
 - [AI Papers](https://www.dropbox.com/scl/fo/2iah7adye9yx70u1keubq/AJ6c0z7Q5y4ZYVZOKmstO6o?rlkey=nq9w9fjx8wb71qi09gf03g45a&e=1&st=s437yxm3&dl=0)
 - Youtube Playlists
-  - [AS AI YouTube Playlist](https://www.youtube.com/playlist?list=PLYGGViEsFPrpYAeM4nRPSjMjUSLaRtw5O)
-  - [AS AI-Awesome YouTube Playlist](https://www.youtube.com/playlist?list=PLYGGViEsFPrrb3Zb3nhnjJhDl2FR_IuTQ)
-  - [AS NN-Understanding-Thru-FSD YouTube Playlist](https://www.youtube.com/playlist?list=PLYGGViEsFProYwNrO9NHtZez98910CEbo)
-  - [Jeremy Howard - Practical Deep Learning for Coders Playlist](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU)
-  - ...
+  - Anand Sharma
+    - [AS AI YouTube Playlist](https://www.youtube.com/playlist?list=PLYGGViEsFPrpYAeM4nRPSjMjUSLaRtw5O)
+    - [AS AI-Awesome YouTube Playlist](https://www.youtube.com/playlist?list=PLYGGViEsFPrrb3Zb3nhnjJhDl2FR_IuTQ)
+    - [AS NN-Understanding-Thru-FSD YouTube Playlist](https://www.youtube.com/playlist?list=PLYGGViEsFProYwNrO9NHtZez98910CEbo)
+  - Jeremy Howard
+    - [Jeremy Howard - Practical Deep Learning for Coders Playlist](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU)
+  - Serrano Academy Videos/Playlists
+    - Mathematics
+        - [Mathematics Videos](https://www.youtube.com/playlist?list=PLs8w1Cdi-zvbEpRC8YqZcSIKipAe1QHGt)
+        - [Probability](https://www.youtube.com/playlist?list=PLs8w1Cdi-zvbv6iq6Xu01PgflKmMDRMDl)
+        - [Discrete Fourier Transforms](https://www.youtube.com/playlist?list=PLs8w1Cdi-zvY_BI7Fe0nYETCVoVhptFaf)
+    - Machine Learning
+        - [Grokking Machine Learning](https://www.youtube.com/playlist?list=PLs8w1Cdi-zvY_DNAZH0d8oH9UOPjbMPBT)
+        - [General Machine Learning](https://www.youtube.com/playlist?list=PLs8w1Cdi-zvYKddqF_TFR7_yXuinufEPN)
+        - [Machine Learning](https://www.youtube.com/playlist?list=PLs8w1Cdi-zvY9ICoYqu1XV0YoTQgShXw2)
+        - [Supervised Machine Learning](https://www.youtube.com/playlist?list=PLs8w1Cdi-zvZXi_mhx9l484p3OkNmiZZe)
+        - [Unsupervised Machine Learning](https://www.youtube.com/playlist?list=PLs8w1Cdi-zvZGyT2Rt0ieA0G6xGUqn3Xw)
+    - Deep Learning
+        - [Neural Networks](https://www.youtube.com/playlist?list=PLs8w1Cdi-zvavXlPXEAsWIh4Cgh83pZPO)
+        - [Deep Learning](https://www.youtube.com/playlist?list=PLs8w1Cdi-zvYmzjZ41shB9KSCf1XMuCuf)
+    - Large Language Models
+        - [NLP and LLM](https://www.youtube.com/playlist?list=PLs8w1Cdi-zvYskDS2icIItfZgxclApVLv)
+        - [Generative Machine Learning](https://www.youtube.com/playlist?list=PLs8w1Cdi-zvalz9ltXmarqyeQ49wfKFqf)
+        - [Large Language Models](https://www.youtube.com/playlist?list=PLs8w1Cdi-zva4fwKkl9EK13siFvL9Wewf)
+        - [Reinforcement Learning](https://www.youtube.com/playlist?list=PLs8w1Cdi-zvbUan-KlgwKN2CycndyKXXS)
+        - [RLHF for training Language Models](https://www.youtube.com/playlist?list=PLs8w1Cdi-zvYviYYw_V3qe6SINReGF5M-)
+  - StatQuest Videos/Playlists
+    - [#66DaysofData](https://www.youtube.com/playlist?list=PLblh5JKOoLUJUNlfvCNhJMNjNNpt5ljcR)
+    - [Machine Learning](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
+    - [Neural Networks/Deep Learning](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
+    - [Gradient Boost](https://www.youtube.com/playlist?list=PLblh5JKOoLUJjeXUvUE0maghNuY2_5fY6)
+    - [Linear Regression and Linear Models](https://www.youtube.com/playlist?list=PLblh5JKOoLUIzaEkCLIUxQFjPIlapw8nU)
+    - [Logistic Regression](https://www.youtube.com/playlist?list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe)
+  - Umair Jamil Videos/Playlists
+    - [Attention is all you Need (Transformer) Model Explanation](https://youtu.be/bCz4OMemCcA?si=3U58oW4x8dKbmar0)
+    - [All Playlists](https://www.youtube.com/@umarjamilai/videos)
+  - AI By Hand
+    - [Deep Learning Basic Playlist](https://www.youtube.com/playlist?list=PL0cq-CiC5Qhs9HcDnJpWuoDMrV0iPJ_-X)
+    - [AI By Hand Workbook](https://www.youtube.com/playlist?list=PL0cq-CiC5QhuyQQ-Qi5Qr5e5Rbzrn7beY)
+    - [Computer Vision](https://www.youtube.com/playlist?list=PL0cq-CiC5QhutrhhsLLiybg2OehFOftI9)
+    - [RAG & Agents](https://www.youtube.com/playlist?list=PL0cq-CiC5Qht17CmxgQDotcT-mlOulxqg)
 - More Safari Live Courses
   - [Build your own AI Lab](https://learning.oreilly.com/live-events/build-your-own-ai-lab/0642572007495/0642572011888/) Jan 2025
   - [GenAI Foundations, Fine-Tuning, RAG, and LLM Application Development - Cisco DEs](https://learning.oreilly.com/live-events/genai-foundations-fine-tuning-rag-and-llm-application-development/0642572007597/0642572011384/)
