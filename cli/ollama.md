@@ -10,6 +10,36 @@ curl -fsSL https://ollama.com/install.sh | sh
 
 ```
 
+## Importing a Model
+
+```bash
+cd ~/src
+hf download NousResearch/Hermes-3-Llama-3.1-8B --local-dir ./NousResearch_Hermes-3-Llama-3.1-8B
+# ollama create hermes-3 --model ./NousResearch_Hermes-3-Llama-3.1-8B/ggml-model-q4_0.bin
+# Create a Modelfile like the following
+# FROM ./NousResearch_Hermes-3-Llama-3.1-8B
+
+# TEMPLATE """{{ if .System }}<|im_start|>system
+# {{ .System }}<|im_end|>{{ end }}
+# <|im_start|>user
+# {{ .Prompt }}<|im_end|>
+# <|im_start|>assistant
+# """
+
+# PARAMETER stop <|start_header_id>|
+# PARAMETER stop <|end_header_id>|
+# PARAMETER stop <|eot_id>|
+o create -f Modelfile NousResearch-Hermes-3-Llama-3.1-8B
+o run --verbose NousResearch-Hermes-3-Llama-3.1-8B \
+What would happen in a fight between a lion and a unicorn
+
+# Quantize the model
+o create -f Modelfile NousResearch-Hermes-3-Llama-3.1-8B:q4_0 --quantize q4_0
+o run --verbose NousResearch-Hermes-3-Llama-3.1-8B:q4_0 \
+What would happen in a fight between a lion and a unicorn
+# Notice both the eval rate and the load duration is significantly faster than the full version
+```
+
 ## Ollama Service
 
 ```bash

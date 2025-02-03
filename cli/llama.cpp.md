@@ -34,23 +34,28 @@ sudo mv llama.cpp/ /usr/local/
 Automatically Download the model from Huggingface:
 
 ```bash
-# Non-interactive
-llama-cli \
-  --hf-repo "unsloth/DeepSeek-R1-Distill-Llama-8B-GGUF" \
-  --hf-file DeepSeek-R1-Distill-Llama-8B-Q4_K_M.gguf \
+# Non-interactive (On CUDA)
+llama-cli --color -b 512 \
+  --ctx-size 8192 \
   --threads 16 \
   --cache-type-k q8_0 \
-  --prompt '<｜User｜>What is 1+1?<｜Assistant｜>' \
-  -no-cnv
+  --repeat_penalty 1.1 \
+  --keep -1 \
+  --hf-repo "unsloth/DeepSeek-R1-Distill-Llama-8B-GGUF" \
+  --hf-file DeepSeek-R1-Distill-Llama-8B-Q4_K_M.gguf \
+  -ngl 1
+  -cnv
 
 
-# Interactive
+# Interactive (Not on CUDA)
 ```bash
 llama-cli --color -b 512 \
 --ctx-size 8192 \
---temp 0 \
---top-k 40 \
---top-p 0.95 \
--hf unsloth/DeepSeek-R1-Distill-Qwen-7B-GGUF:Q4_K_M \
+--threads 16 \
+--temp 0 --top-k 40 --top-p 0.95 \
+--repeat_penalty 1.1 \
+--keep -1 \
+-hf "unsloth/DeepSeek-R1-Distill-Qwen-7B-GGUF:Q4_K_M" \
+-ngl 1 \
 -cnv
 ```

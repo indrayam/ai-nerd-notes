@@ -1,5 +1,75 @@
 # llm CLI
 
+## LLM Installation
+
+- LLM installation and/or Upgrade
+
+```bash
+uv tool install llm
+uv tool upgrade llm
+```
+
+- Plugins installation on a Mac
+```bash
+{
+llm install -U llm-gemini
+llm install -U llm-gguf
+llm install -U llm-ollama
+llm install -U llm-gemini
+llm install -U llm-claude
+llm install -U llm-claude-3
+llm install -U llm-mistral
+llm install -U llm-clip
+llm install -U llm-groq
+llm install -U llm-cmd
+llm install -U llm-python
+llm install -U llm-jq
+llm install -U llm-deepseek
+llm install -U llm-sentence-transformers
+llm install -U llm-clip
+}
+# llm python -m pip install \
+#   --pre torch torchvision \
+#   --index-url https://download.pytorch.org/whl/nightly/cpu
+#llm install -U llm-bedrock-anthropic
+#llm install -U llm-bedrock-meta
+```
+
+- Plugins installation on a Linux
+
+```bash
+{
+llm install -U llm-gemini
+llm install -U llm-gguf
+llm install -U llm-ollama
+llm install -U llm-gemini
+llm install -U llm-claude
+llm install -U llm-claude-3
+llm install -U llm-mistral
+llm install -U llm-groq
+llm install -U llm-cmd
+llm install -U llm-clip
+llm install -U llm-python
+llm install -U llm-jq
+llm install -U llm-deepseek
+llm install -U llm-sentence-transformers
+llm install -U llm-clip
+}
+#llm install -U llm-bedrock-anthropic
+#llm install -U llm-bedrock-meta
+```
+
+- Define aliases
+
+```bash
+{
+llm aliases set 2-flash gemini-2.0-flash-exp
+llm aliases set 2-flash-think gemini-2.0-flash-thinking-exp-01-21
+llm aliases set ds-chat deepseek-chat
+llm aliases set ds-think deepseek-reasoner
+}
+```
+
 ## Useful commands
 
 ```bash
@@ -41,11 +111,11 @@ llm -m 2-flash describe -a https://static.simonwillison.net/static/2024/pelicans
 llm -m gemini-2.0-flash-thinking-exp-1219 "Generate an SVG of a pelican riding a bicycle"
 llm -m 2-flash -a https://arxiv.org/pdf/1902.08318 "a bullet point list of the most unusual ideas"
 llm -m 2-flash -a https://arxiv.org/pdf/2501.06425 "a bullet point list of the most unusual ideas"
-
+llm -m gemini-1.5-pro-latest -o google_search 1 "Who won the IPL in 2024?"
 ```
 
 ```bash
-llm -m gemini-2.0-flash-thinking-exp-1219 -a https://storage.googleapis.com/generativeai-downloads/images/geometry.png "What's the area of the overlapping region?"
+llm -m 2-flash-think -a https://storage.googleapis.com/generativeai-downloads/images/geometry.png "What's the area of the overlapping region?"
 ```
 
 ```bash
@@ -80,83 +150,3 @@ llm cmd undo last git commit
 llm cmd use jq to generate a new JSON from GitHub Issues API
 ```
 
-## LLM Plugins
-
-```bash
-{
-llm install -U llm-gpt4all
-llm install -U llm-gemini
-llm install -U llm-gguf
-llm install -U llm-ollama
-llm install -U llm-gemini
-llm install -U llm-claude
-llm install -U llm-claude-3
-llm install -U llm-clip
-llm install -U llm-groq
-llm install -U llm-sentence-transformers
-llm install -U llm-cmd
-llm install -U llm-clip
-llm install -U llm-python
-llm install -U llm-jq
-}
-#llm install -U llm-bedrock-anthropic
-#llm install -U llm-bedrock-meta
-```
-
-```json
-[
-  {
-    "name": "llm-cmd",
-    "hooks": [
-      "register_commands"
-    ],
-    "version": "0.2a0"
-  },
-  {
-    "name": "llm-gemini",
-    "hooks": [
-      "register_embedding_models",
-      "register_models"
-    ],
-    "version": "0.8"
-  },
-  {
-    "name": "llm-sentence-transformers",
-    "hooks": [
-      "register_commands",
-      "register_embedding_models"
-    ],
-    "version": "0.2"
-  },
-  {
-    "name": "llm-groq",
-    "hooks": [
-      "register_models"
-    ],
-    "version": "0.6"
-  },
-  {
-    "name": "llm-claude",
-    "hooks": [
-      "register_models"
-    ],
-    "version": "0.4.2"
-  },
-  {
-    "name": "llm-ollama",
-    "hooks": [
-      "register_commands",
-      "register_embedding_models",
-      "register_models"
-    ],
-    "version": "0.8.1"
-  },
-  {
-    "name": "llm-python",
-    "hooks": [
-      "register_commands"
-    ],
-    "version": "0.1"
-  }
-]
-```
