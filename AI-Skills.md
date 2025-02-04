@@ -1,28 +1,36 @@
 # AI Skills
 
-## Reading Now
-- AI Books
-  - Hands-On Large Language Models, Language Understanding and Generation, Ch. 1-12
-  - A Quick Start Guide to LLMs 2nd Ed, Ch. 1-4
-  - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow 3rd Ed, Ch. 1-17
-- AI VoDs
-  - Sinan Ozdemiroglu's AI Live Courses
-    - [Large Language Models and ChatGPT in 3 Weeks](https://learning.oreilly.com/live-events/-/0636920090988/0642572010864/) Jan 2025 - [GitHub Code](https://github.com/sinanuozdemir/large-language-models-and-chatgpt-in-three-weeks)
-    - [Transformer Architectures for Generative AI - Sinan Ozdemir](https://learning.oreilly.com/live-events/transformer-architectures-for-generative-ai/0642572010589/0642572010588/) Dec 2024 - [GitHub Code](https://github.com/sinanuozdemir/foundations-of-gen-ai)
-    - [Deep Learning for Modern AI - Sinan Ozdemir](https://learning.oreilly.com/live-events/deep-learning-for-modern-ai/0642572005084/0642572010124/) Dec 2024
-    - [LLMs, GPT, and Prompt Engineering for Developers - Sinan Ozdemir](https://learning.oreilly.com/live-events/llms-gpt-and-prompt-engineering-for-developers/0636920094338/0636920094337/) Sep 2023
-    - [Using Open- and Closed-Source LLMs in Real World Applications - Sinan Ozdemir](https://learning.oreilly.com/live-events/using-open-and-closed-source-llms-in-real-world-applications/0636920094342/0636920094341/) Sep 2023, July 2024
-    - [Introduction to Deep Learning with PyTorch - Sinan Ozdemir](https://learning.oreilly.com/live-events/introduction-to-deep-learning-with-pytorch/0636920086096/0636920092737/)
-    - [Hands on Natural Language Generation and GPT - Sinan Ozdemir](https://learning.oreilly.com/live-events/hands-on-natural-language-generation-and-gpt/0636920061438/0636920086524/)
+## Minimum Viable Learning Path
+- Mathematics
+  - Essential Math for Data Science
+  - Jon Krohn's Live Courses
+    - [Linear Algebra for Machine Learning - Jon Krohn](https://learning.oreilly.com/course/linear-algebra-for/9780137398119/)
+    - [Probability and Statistics for Machine Learning - Jon Krohn](https://learning.oreilly.com/course/probability-and-statistics/9780137398126/)
+    - [Calculus for Machine Learning - Jon Krohn](https://learning.oreilly.com/course/calculus-for-machine/9780137398171/)
+    - [The Essential Machine Learning Foundations: Math, Probability, Statistics, and Computer Science - Jon Krohn](https://learning.oreilly.com/course/the-essential-machine/9780137903245/)
+- Machine Learning
+  - Grokking Machine Learning
+  - Serrano Academy Videos/Playlists
+    - [Machine Learning](https://www.youtube.com/playlist?list=PLs8w1Cdi-zvY9ICoYqu1XV0YoTQgShXw2)
+    - [Supervised Machine Learning](https://www.youtube.com/playlist?list=PLs8w1Cdi-zvZXi_mhx9l484p3OkNmiZZe)
+    - [Unsupervised Machine Learning](https://www.youtube.com/playlist?list=PLs8w1Cdi-zvZGyT2Rt0ieA0G6xGUqn3Xw)
+- Deep Learning
+  - Grokking Deep Learning
+  - Jeremy Howard's Deep Learning Courses
+    - [Practical Deep Learning for Coders - Jeremy Howard](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU)
+    - [Practical Deep Learning Part 2 - Jeremy Howard](https://www.youtube.com/playlist?list=PLfYUBJiXbdtRUvTUYpLdfHHp9a58nWVXP)
+- Multi-Modal LLMs
+  - Hands-On Large Language Models, Jay Alammar
   - Ed Donner's AI Live Courses
     - [From Software Engineer to AI Data Scientist - Ed Donner](https://learning.oreilly.com/live-events/from-software-engineer-to-ai-data-scientist/0642572007671/0642572010692/) Dec 2024
     - [Choosing the Right LLM - Ed Donner](https://learning.oreilly.com/live-events/choosing-the-right-llm/0642572002832/0642572010148/) Dec 2024
     - [Cisco Udemy: LLM Engineering: Master AI, Large Language Models & Agents](https://cisco.udemy.com/course/llm-engineering-master-ai-and-large-language-models/learn/lecture/46867711#overview) Dec 2024
     - [Hands-On LLM Engineering](https://learning.oreilly.com/live-events/hands-on-llm-engineering/0642572011365/0642572011364/) Jan 2025
-  - Chad Smith's AWS/AI Live Courses
-    - [Generative AI for Cloud Practitioners - Chad Smith](https://learning.oreilly.com/live-events/generative-ai-for-cloud-practitioners/0642572001983/0642572008116/) Jan 2025, Nov 2024
-    - [AWS AI Practitioner Crash Course - Chad Smith](https://learning.oreilly.com/live-events/aws-ai-practitioner-crash-course/0642572009853/0642572009852/) Dec 2024
-  - [AS AI-Awesome YouTube Playlist](https://www.youtube.com/playlist?list=PLYGGViEsFPrrb3Zb3nhnjJhDl2FR_IuTQ)
+- Computations using PyTorch and LLM Frameworks
+  - Deep Learning with PyTorch, 2nd Ed
+  - Jeremy Howard's CUDA series
+    - [Getting Started with CUDA for Python Programmers - Jeremy Howard](https://www.youtube.com/watch?v=nOxKexn3iBo&t=357s&pp=ygUSamVyZW15IGhvd2FyZCBjdWRh)
+    - [Going Further with CUDA for Python Programmers - Jeremy Howard](https://www.youtube.com/watch?v=eUuGdh3nBGo&t=4s&pp=ygUSamVyZW15IGhvd2FyZCBjdWRh)
 
 
 ## 1. AI Pre-requisites
@@ -101,19 +109,25 @@
   - AI Engineering (AIE), Chip Huyen
   - Generative AI on AWS
   - Amazon Bedrock in Action
-  - [A Hacker's Guide to LLM - Jeremy Howard](https://www.youtube.com/watch?v=jkrNMKz9pWU)
-  - [From Software Engineer to AI Data Scientist - Ed Donner](https://learning.oreilly.com/live-events/from-software-engineer-to-ai-data-scientist/0642572007671/0642572010692/) Dec 2024
-  - [Choosing the Right LLM - Ed Donner](https://learning.oreilly.com/live-events/choosing-the-right-llm/0642572002832/0642572010148/) Dec 2024
-  - [Large Language Models and ChatGPT in 3 Weeks](https://learning.oreilly.com/live-events/-/0636920090988/0642572010864/) Jan 2025
-  - [Transformer Architectures for Generative AI - Sinan Ozdemir](https://learning.oreilly.com/live-events/transformer-architectures-for-generative-ai/0642572010589/0642572010588/) Dec 2024
-  - [Deep Learning for Modern AI - Sinan Ozdemir](https://learning.oreilly.com/live-events/deep-learning-for-modern-ai/0642572005084/0642572010124/) Dec 2024
-  - [LLMs, GPT, and Prompt Engineering for Developers - Sinan Ozdemir](https://learning.oreilly.com/live-events/llms-gpt-and-prompt-engineering-for-developers/0636920094338/0636920094337/) Sep 2023
-  - [Using Open- and Closed-Source LLMs in Real World Applications - Sinan Ozdemir](https://learning.oreilly.com/live-events/using-open-and-closed-source-llms-in-real-world-applications/0636920094342/0636920094341/) Sep 2023, July 2024
-  - [Generative AI for Cloud Practitioners - Chad Smith](https://learning.oreilly.com/live-events/generative-ai-for-cloud-practitioners/0642572001983/0642572008116/) Nov 2024
-  - [AWS AI Practitioner Crash Course - Chad Smith](https://learning.oreilly.com/live-events/aws-ai-practitioner-crash-course/0642572009853/0642572009852/) Dec 2024
-  - [Fundamentals of Large Language Models: A hands-on approach in 2 Weeks - Jonathan Fernandes](https://learning.oreilly.com/live-events/fundamentals-of-large-language-models-a-hands-on-approach-in-2-weeks/0636920089792/0636920092359/) Aug/Sep 2023
-  - [Prompting Bootcamp](https://learning.oreilly.com/live-events/prompting-bootcamp/0636920097098/0642572010284/) Dec 2024
-  - [AI, ChatGPT, and other Large Language Models (LLMs) Security - Omar Santos](https://learning.oreilly.com/live-events/ai-chatgpt-and-other-large-language-models-llms-security/0636920092790/0636920096557/) Aug 2023
+  - Jeremy Howard's AI Live Courses
+    - [A Hacker's Guide to LLM - Jeremy Howard](https://www.youtube.com/watch?v=jkrNMKz9pWU)
+  - Ed Donner's AI Live Courses
+    - [From Software Engineer to AI Data Scientist - Ed Donner](https://learning.oreilly.com/live-events/from-software-engineer-to-ai-data-scientist/0642572007671/0642572010692/) Dec 2024
+    - [Choosing the Right LLM - Ed Donner](https://learning.oreilly.com/live-events/choosing-the-right-llm/0642572002832/0642572010148/) Dec 2024
+    - [Cisco Udemy: LLM Engineering: Master AI, Large Language Models & Agents](https://cisco.udemy.com/course/llm-engineering-master-ai-and-large-language-models/learn/lecture/46867711#overview) Dec 2024
+    - [Hands-On LLM Engineering](https://learning.oreilly.com/live-events/hands-on-llm-engineering/0642572011365/0642572011364/) Jan 2025
+  - Sinan Ozdemir's AI Live Courses
+    - [Transformer Architectures for Generative AI - Sinan Ozdemir](https://learning.oreilly.com/live-events/transformer-architectures-for-generative-ai/0642572010589/0642572010588/) Dec 2024
+    - [Deep Learning for Modern AI - Sinan Ozdemir](https://learning.oreilly.com/live-events/deep-learning-for-modern-ai/0642572005084/0642572010124/) Dec 2024
+    - [LLMs, GPT, and Prompt Engineering for Developers - Sinan Ozdemir](https://learning.oreilly.com/live-events/llms-gpt-and-prompt-engineering-for-developers/0636920094338/0636920094337/) Sep 2023
+    - [Using Open- and Closed-Source LLMs in Real World Applications - Sinan Ozdemir](https://learning.oreilly.com/live-events/using-open-and-closed-source-llms-in-real-world-applications/0636920094342/0636920094341/) Sep 2023, July 2024
+  - Chad Smith's AWS/AI Live Courses
+    - [Generative AI for Cloud Practitioners - Chad Smith](https://learning.oreilly.com/live-events/generative-ai-for-cloud-practitioners/0642572001983/0642572008116/) Nov 2024
+    - [AWS AI Practitioner Crash Course - Chad Smith](https://learning.oreilly.com/live-events/aws-ai-practitioner-crash-course/0642572009853/0642572009852/) Dec 2024
+  - Miscellaneous
+    - [Fundamentals of Large Language Models: A hands-on approach in 2 Weeks - Jonathan Fernandes](https://learning.oreilly.com/live-events/fundamentals-of-large-language-models-a-hands-on-approach-in-2-weeks/0636920089792/0636920092359/) Aug/Sep 2023
+    - [Prompting Bootcamp](https://learning.oreilly.com/live-events/prompting-bootcamp/0636920097098/0642572010284/) Dec 2024
+    - [AI, ChatGPT, and other Large Language Models (LLMs) Security - Omar Santos](https://learning.oreilly.com/live-events/ai-chatgpt-and-other-large-language-models-llms-security/0636920092790/0636920096557/) Aug 2023
 
 ## 4. Computations using Multi-Modal Language Model Frameworks
 - A Simple Guide to Retrieval Augmented Generation

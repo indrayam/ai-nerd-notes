@@ -16,8 +16,7 @@ llm install -U llm-gemini
 llm install -U llm-gguf
 llm install -U llm-ollama
 llm install -U llm-gemini
-llm install -U llm-claude
-llm install -U llm-claude-3
+llm install -U llm-anthropic
 llm install -U llm-mistral
 llm install -U llm-clip
 llm install -U llm-groq
@@ -43,8 +42,7 @@ llm install -U llm-gemini
 llm install -U llm-gguf
 llm install -U llm-ollama
 llm install -U llm-gemini
-llm install -U llm-claude
-llm install -U llm-claude-3
+llm install -U llm-anthropic
 llm install -U llm-mistral
 llm install -U llm-groq
 llm install -U llm-cmd
