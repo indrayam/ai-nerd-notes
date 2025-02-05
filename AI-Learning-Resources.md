@@ -1,4 +1,4 @@
-# AI Skills
+# AI Learning Resources
 
 ## Minimum Viable Learning Path
 - Mathematics
@@ -147,6 +147,7 @@
 - Deep Learning with Python, 3rd Ed
 - Deep Learning with PyTorch, 2nd Ed
 - **OPTIONAL**
+  - [FreeCodeCamp YouTube - PyTorch for Beginners](https://youtu.be/V_xro1bcAuA?si=aCHxYZgrBe2nr2Qf)
   - Neural Networks from Scratch in Python
   - [Hands-On Deep Neural Networks with PyTorch - Robert Alvarez](https://learning.oreilly.com/live-events/hands-on-deep-neural-networks-with-pytorch/0636920305781/0636920093856/) Sep 2023
   - [PyTorch 2.0 - Joe Papa](https://learning.oreilly.com/live-events/pytorch-20/0636920055927/0636920092412/) Sep 2023
