@@ -1,17 +1,5 @@
 # AI Reading References
 
-## Skills
-- [AI Skills]()
-
-## References
-- [AI Learning Resources]()
-- [AI Watch References]()
-- [AI Read References]()
-
-
-## Read NOW...
-- ...
-
 ## Tab Group 3
 - [Articles About AI and Machine Learning](https://thelmbook.com/articles/#!./DeepSeek-R1.md)
 - [Why reasoning models will generalize - by Nathan Lambert](https://www.interconnects.ai/p/why-reasoning-models-will-generalize)
@@ -48,4 +36,11 @@
 
 ## Tab Group 1
 - [AI Papers](https://www.dropbox.com/scl/fo/2iah7adye9yx70u1keubq/AJ6c0z7Q5y4ZYVZOKmstO6o?rlkey=nq9w9fjx8wb71qi09gf03g45a&e=1&st=s437yxm3&dl=0)
+
+## AI Skills
+- [AI Skills](https://github.com/indrayam/ai-nerd-notes)
+
+## AI References
+- [AI Learning Resources](https://github.com/indrayam/ai-nerd-notes/blob/main/AI-Learning-Resources.md)
+- [AI Watch References](https://github.com/indrayam/ai-nerd-notes/blob/main/AI-Watch-References.md)
 

@@ -1,14 +1,6 @@
 # AI Watch References
 
-## Skills
-- [AI Skills]()
-
-## References
-- [AI Learning Resources]()
-- [AI Watch References]()
-- [AI Read References]()
-
-## Watch NOW...
+## Watch Group 1
   - [Jay Alammar - on X: "We're ecstatic to bring you "How Transformer LLMs Work" -- a - free course with ~90 minutes of video, code, and crisp visuals and - animations that explain the modern Transformer architecture, - tokenizers, embeddings, and mixture-of-expert models. @MaartenGr and I - have developed a"](https://x.com/jayalammar/status/1887189786672202233?s=58)
   - [Andrej - Karpathy on X: "New 3h31m video on YouTube: "Deep Dive into LLMs like - ChatGPT" This is a general audience deep dive into the Large Language - Model (LLM) AI technology that powers ChatGPT and related products. It - is covers the full training stack of how the models are developed, - along with mental https://t.co/Di0XNgdlwC"](https://x.com/karpathy/status/1887211193099825254?s=58)
 
@@ -88,3 +80,10 @@
 - [AS NN-Understanding-Thru-FSD YouTube](https://www.youtube.com/playlist?list=PLYGGViEsFProYwNrO9NHtZez98910CEbo)
 - [Build your own AI Lab](https://learning.oreilly.com/live-events/build-your-own-ai-lab/0642572007495/0642572011888/) Jan 2025
 - [GenAI Foundations, Fine-Tuning, RAG, and LLM Application Development - Cisco DEs](https://learning.oreilly.com/live-events/genai-foundations-fine-tuning-rag-and-llm-application-development/0642572007597/0642572011384/)
+
+## AI Skills
+- [AI Skills](https://github.com/indrayam/ai-nerd-notes)
+
+## AI References
+- [AI Learning Resources](https://github.com/indrayam/ai-nerd-notes/blob/main/AI-Learning-Resources.md)
+- [AI Read References](https://github.com/indrayam/ai-nerd-notes/blob/main/AI-Read-References.md)

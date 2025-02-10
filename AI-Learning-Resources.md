@@ -1,13 +1,5 @@
 # AI Learning Resources
 
-## Skills
-- [AI Skills]()
-
-## References
-- [AI Learning Resources]()
-- [AI Watch References]()
-- [AI Read References]()
-
 ## Minimum Viable Learning Path
 - Mathematics
   - **Essential Math for Data Science**, *Thomas Nield*
@@ -178,3 +170,10 @@
   - Professional CUDA C Programming
   - 21st Century C 2nd Ed
   - Understanding and Using C Pointers
+
+## AI Skills
+- [AI Skills](https://github.com/indrayam/ai-nerd-notes)
+
+## AI References
+- [AI Watch References](https://github.com/indrayam/ai-nerd-notes/blob/main/AI-Watch-References.md)
+- [AI Read References](https://github.com/indrayam/ai-nerd-notes/blob/main/AI-Read-References.md)

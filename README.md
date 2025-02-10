@@ -1,14 +1,5 @@
 # AI Nerd Notes
 
-## Skills
-- [AI Skills]()
-
-## References
-- [AI Learning Resources]()
-- [AI Watch References]()
-- [AI Read References]()
-
-
 ## 1. Mathematics
 - Probability
 - Statistics
@@ -68,3 +59,8 @@
   - `torch`
 - `C++`
   - `CUDA Toolkit`
+
+## AI Learning References
+- [AI Learning Resources](https://github.com/indrayam/ai-nerd-notes/blob/main/AI-Learning-Resources.md)
+- [AI Watch References](https://github.com/indrayam/ai-nerd-notes/blob/main/AI-Watch-References.md)
+- [AI Read References](https://github.com/indrayam/ai-nerd-notes/blob/main/AI-Read-References.md)
