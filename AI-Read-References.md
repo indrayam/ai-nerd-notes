@@ -1,6 +1,8 @@
 # AI Reading References
 
 ## Tab Group 3
+- [The StatQuest Illustrated Guide to Neural Networks and AI (PDF)](https://statquest.gumroad.com/l/kihdi)
+- [The StatQuest Illustrated Guide to Machine Learning (PDF)](https://statquest.gumroad.com/l/wvtmc)
 - [Articles About AI and Machine Learning](https://thelmbook.com/articles/#!./DeepSeek-R1.md)
 - [Why reasoning models will generalize - by Nathan Lambert](https://www.interconnects.ai/p/why-reasoning-models-will-generalize)
 - [Everything You Should - Know About GPTs - Generative Pre-Trained Transformers | Chaithanya - Kumar A](https://chaithanyak.com/machine/learning/2024/03/21/everything-you-need-to-know-about-gpts.html)
