@@ -1,5 +1,13 @@
 # AI Watch References
 
+## Watch Now...
+- [Andrej Karpathy: Deep-Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)
+- [Andrew Ng: AI Python for Beginners](https://learn.deeplearning.ai/courses/ai-python-for-beginners/lesson/1/introduction)
+- [Josh Starmer: Attention in Transformers](https://learn.deeplearning.ai/courses/attention-in-transformers-concepts-and-code-in-pytorch/lesson/han2t/introduction?_gl=1*1xgyp0d*_ga*MzY2NjgwNTY5LjE3Mzg2ODI4Nzk.*_ga_PZF1GBS1R1*MTczOTM4ODE0MS40LjEuMTczOTM4ODE1OC40My4wLjA.)
+- [Jay Allamar: How Transformer LLMs Work](https://learn.deeplearning.ai/courses/how-transformer-llms-work/lesson/1/introduction)
+- [Jon Krohn: Mathematical Foundations for Machine Learning](https://cisco.udemy.com/course/machine-learning-data-science-foundations-masterclass/learn/lecture/22926432?start=0#overview)
+- [Ed Donner: LLM Engineering: Master AI, Large Language Models & Agents](https://cisco.udemy.com/course/llm-engineering-master-ai-and-large-language-models/learn/lecture/46867711#overview) Dec 2024
+
 ## 1. Mathematics
 
 ### Steve Brunton, University of Washington
@@ -20,10 +28,10 @@
 - [Linear Algebra](https://www.youtube.com/playlist?list=PLybg94GvOJ9En46TNCXL2n6SiqRc_iMB8)
 
 ### Jon Krohn 
+- [The Essential Machine Learning Foundations: Math, Probability, Statistics, and Computer Science - Jon Krohn](https://learning.oreilly.com/course/the-essential-machine/9780137903245/)
 - [Linear Algebra for Machine Learning - Jon Krohn](https://learning.oreilly.com/course/linear-algebra-for/9780137398119/)
 - [Probability and Statistics for Machine Learning - Jon Krohn](https://learning.oreilly.com/course/probability-and-statistics/9780137398126/)
 - [Calculus for Machine Learning - Jon Krohn](https://learning.oreilly.com/course/calculus-for-machine/9780137398171/)
-- [The Essential Machine Learning Foundations: Math, Probability, Statistics, and Computer Science - Jon Krohn](https://learning.oreilly.com/course/the-essential-machine/9780137903245/)
 - [Mathematical Foundations for Machine Learning](https://cisco.udemy.com/course/machine-learning-data-science-foundations-masterclass/learn/lecture/22926432?start=0#overview)
 - [Linear Algebra for Machine Learning](https://www.youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a)
 - [Calculus for Machine Learning](https://www.youtube.com/playlist?list=PLRDl2inPrWQVu2OvnTvtkRpJ-wz-URMJx)
@@ -57,7 +65,7 @@
 
 ### Anand Sharma Maths
 - [AS Maths Watch Later](https://www.youtube.com/playlist?list=PLYGGViEsFProd1RJttU1Ko5N_-matUiIY)
-- [AI Math YouTube Playlist](https://www.youtube.com/playlist?list=PLeM4O8deP8GO3vIx_9eboO9tVpUKHYqRg)
+- [AI Maths YouTube Playlist](https://www.youtube.com/playlist?list=PLeM4O8deP8GO3vIx_9eboO9tVpUKHYqRg)
 - [Math YouTube Playlist](https://www.youtube.com/playlist?list=PLYGGViEsFPrrVeIPeBkpAyGLUo3-f22AX)
 
 ## 2. Hands-On AI
@@ -85,13 +93,14 @@
 
 ### Andrej Karpathy
 - [Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+- [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=1331s)
 - [Deep-Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 
 ### Ed Donner
 - [From Software Engineer to AI Data Scientist - Ed Donner](https://learning.oreilly.com/live-events/from-software-engineer-to-ai-data-scientist/0642572007671/0642572010692/) Dec 2024
 - [Choosing the Right LLM - Ed Donner](https://learning.oreilly.com/live-events/choosing-the-right-llm/0642572002832/0642572010148/) Dec 2024
-- [Cisco Udemy: LLM Engineering: Master AI, Large Language Models & Agents](https://cisco.udemy.com/course/llm-engineering-master-ai-and-large-language-models/learn/lecture/46867711#overview) Dec 2024
 - [Hands-On LLM Engineering](https://learning.oreilly.com/live-events/hands-on-llm-engineering/0642572011365/0642572011364/) Jan 2025
+- [Cisco Udemy: LLM Engineering: Master AI, Large Language Models & Agents](https://cisco.udemy.com/course/llm-engineering-master-ai-and-large-language-models/learn/lecture/46867711#overview) Dec 2024
 
 ### Sinan Ozdemir
 - [Transformer Architectures for Generative AI - Sinan Ozdemir](https://learning.oreilly.com/live-events/transformer-architectures-for-generative-ai/0642572010589/0642572010588/) Dec 2024
@@ -151,6 +160,7 @@
 ### DeepLearning.AI
 - [AI for Everyone](https://www.deeplearning.ai/courses/ai-for-everyone/)
 - [AI Python for Beginners](https://learn.deeplearning.ai/courses/ai-python-for-beginners/lesson/1/introduction)
+- [Attention in Transformers](https://learn.deeplearning.ai/courses/attention-in-transformers-concepts-and-code-in-pytorch/lesson/han2t/introduction?_gl=1*1xgyp0d*_ga*MzY2NjgwNTY5LjE3Mzg2ODI4Nzk.*_ga_PZF1GBS1R1*MTczOTM4ODE0MS40LjEuMTczOTM4ODE1OC40My4wLjA.)
 - [How Transformer LLMs Work](https://learn.deeplearning.ai/courses/how-transformer-llms-work/lesson/1/introduction)
 - [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/1/introduction)
 

@@ -1,6 +1,11 @@
 # AI Reading References
 
-## Tab Group 3
+## Reading Set 4
+- [Towards Democratizing RL for LLMs](https://pretty-radio-b75.notion.site/DeepScaleR-Surpassing-O1-Preview-with-a-1-5B-Model-by-Scaling-RL-19681902c1468005bed8ca303013a4e2)
+  - Source: [This is wild - UC Berkeley shows that a tiny 1.5B model beats o1-preview on math by RL!...](https://x.com/Yuchenj_UW/status/1889387582066401461)
+- [Awesome AI/ML resources](https://github.com/armankhondker/awesome-ai-ml-resources)
+
+## Reading Set 3
 - [The StatQuest Illustrated Guide to Neural Networks and AI (PDF)](https://statquest.gumroad.com/l/kihdi)
 - [The StatQuest Illustrated Guide to Machine Learning (PDF)](https://statquest.gumroad.com/l/wvtmc)
 - [Articles About AI and Machine Learning](https://thelmbook.com/articles/#!./DeepSeek-R1.md)
@@ -23,8 +28,11 @@
 - [How GPT3 Works - Visualizations and Animations – Jay Alammar](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
 - [The Illustrated - Word2vec – Jay Alammar](https://jalammar.github.io/illustrated-word2vec/)
 - [The - Illustrated Stable Diffusion – Jay Alammar](https://jalammar.github.io/illustrated-stable-diffusion/)
+- [Transformers from Scratch](https://www.brandonrohrer.com/transformers)
+- [Visualize LLM](https://t.co/DPH5wBte2D)
+  - Source: [Everyone should be using this website to understand the inside of an LLM...](https://x.com/deedydas/status/1889511316903411894?s=43)
 
-## Tab Group 2
+## Reading Set 2
 - [Using - pip to install a Large Language Model that’s under 100MB](https://simonwillison.net/2025/Feb/7/pip-install-llm-smollm2/)
 - [simonw/files-to-prompt: - Concatenate a directory full of files into a single prompt for use - with LLMs](https://github.com/simonw/files-to-prompt)
 - [Modular: - Democratizing Compute, Part 1: DeepSeek’s Impact on AI](https://www.modular.com/blog/democratizing-compute-part-1-deepseeks-impact-on-ai)
@@ -36,7 +44,7 @@
 - [Emerging - Patterns in Building GenAI Products](https://martinfowler.com/articles/gen-ai-patterns/#rag)
 - [A Visual Guide to Reasoning LLMs - by Maarten Grootendorst](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms)
 
-## Tab Group 1
+## Reading Set 1
 - [AI Papers](https://www.dropbox.com/scl/fo/2iah7adye9yx70u1keubq/AJ6c0z7Q5y4ZYVZOKmstO6o?rlkey=nq9w9fjx8wb71qi09gf03g45a&e=1&st=s437yxm3&dl=0)
 
 ## AI Skills

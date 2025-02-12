@@ -1,4 +1,4 @@
-# AI Learning Resources
+# AI Books Resources
 
 ## Core Books
 - Essential Math for Data Science, Thomas Nield
