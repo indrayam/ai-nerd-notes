@@ -3,6 +3,7 @@
 ## Watch
 - Math
   - JensenMath
+  - Dr. Dave Explains
   - Jon Krohn
   - 3Blue1Brown
 - Hands-On AI
