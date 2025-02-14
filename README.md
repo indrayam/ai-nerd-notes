@@ -6,7 +6,21 @@
 - Linear Algebra
 - Calculus
 
-## 2. Machine Learning
+## 2. Hands-On AI
+- `python`
+  - `uv`
+  - `jupyter`
+  - `numpy`
+  - `scipy`
+  - `matplotlib`
+  - `sympy`
+  - `scikit-learn`
+  - `pandas`
+  - `torch`
+- `g++`
+  - `CUDA Toolkit`
+
+## 3. Machine Learning
 - Linear Regression
 - Perceptron Algorithm
 - Logistic Classifiers
@@ -18,7 +32,7 @@
 - Ensemble Learning
 - Dimensionality Reduction using PCA
 
-## 3. Deep Learning
+## 4. Deep Learning
 - Neural Networks
 - Forward Propogation
 - Backward Propogation/Gradient Descent
@@ -31,7 +45,7 @@
 - Generative Adversarial Networks
 - Deep Reinforcement Learning
 
-## 4. Large Language Models
+## 5. Large Language Models
 - Understanding LLMs
   - Tokens and Embeddings
   - Transformers Architecture
@@ -46,19 +60,6 @@
   - Creating Text Embedding Models
   - Fine-tuning Representation Models for Classification
   - Fine-tuning Generation Models for Text Generation
-
-## 5. Hands-On AI
-- `Python`
-  - `jupyter`
-  - `numpy`
-  - `scipy`
-  - `matplotlib`
-  - `pandas`
-  - `sympy`
-  - `scikit-learn`
-  - `torch`
-- `C++`
-  - `CUDA Toolkit`
 
 ## AI Learning References
 - [AI Learning Resources](https://github.com/indrayam/ai-nerd-notes/blob/main/AI-Learning-Resources.md)

@@ -1,16 +1,8 @@
 # AI Books Resources
 
-## Core Books
-- Essential Math for Data Science, Thomas Nield
-- Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Ed, Aurélien Géron
-- Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD, eremy Howard & Sylvain Gugger
-- Hands-On Large Language Models, Jay Alammar
-- Build a Large Language Model from Scratch - Sebastian Raschka
-
-## References
-
 ### Mathematics
-- Math for Deep Learnig, Ronald T. Kneusel
+- Essential Math for Data Science, Thomas Nield
+- Math for Deep Learning, Ronald T. Kneusel
 - Numerical Python 2nd Ed, Robert Johansson 
 - Linear Algebra Step-by-Step, Kuldeep Singh
 - Practical Linear Algebra for Data Science, Mike Cohen

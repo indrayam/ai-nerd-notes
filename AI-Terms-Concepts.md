@@ -1,4 +1,4 @@
-# AI Lingo
+# AI Terms and Concepts
 
 ## Creating a Model
 - Another model

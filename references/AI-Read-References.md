@@ -1,6 +1,8 @@
 # AI Reading References
 
 ## Reading Set 4
+- [The best explanation of why NN works](https://x.com/jxmnop/status/1889395446340272271?s=43)
+- [Best-Indian-AI-ML-Courses](https://github.com/AniruddhaChattopadhyay/Best-Indian-AI-ML-Courses?tab=readme-ov-file)
 - [Towards Democratizing RL for LLMs](https://pretty-radio-b75.notion.site/DeepScaleR-Surpassing-O1-Preview-with-a-1-5B-Model-by-Scaling-RL-19681902c1468005bed8ca303013a4e2)
   - Source: [This is wild - UC Berkeley shows that a tiny 1.5B model beats o1-preview on math by RL!...](https://x.com/Yuchenj_UW/status/1889387582066401461)
 - [Awesome AI/ML resources](https://github.com/armankhondker/awesome-ai-ml-resources)
