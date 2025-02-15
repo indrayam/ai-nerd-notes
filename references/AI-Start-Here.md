@@ -7,9 +7,12 @@
   - Jon Krohn
   - 3Blue1Brown
 - Hands-On AI
-  - FreeCodeCamp
-  - Priyam Mazumdar
-  - Jeremy Howard
+  - Python
+  - PyTorch
+  - Hugging Face
+  - Ollama
+  - Agentic AI
+  - CUDA
 - AI
   - Andrej Karpathy
   - DeepLearning.AI
@@ -18,7 +21,6 @@
   - Sinan Ozdemir
   - Andrew Ng (Stanford)
   - Jeremy Howard
-
 
 ## Read
 - Math
