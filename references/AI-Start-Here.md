@@ -8,10 +8,10 @@
 - [Python for Data Analysis, 3rd Ed, Wes McKinney](https://learning.oreilly.com/library/view/python-for-data/9781098104023/)
 
 #### Watch
-- [JensenMath](AI-Watch-References.md#jensenmath)
-- [Dr. Dave Explains](AI-Watch-References.md#dr-dave-explains)
-- [Jon Krohn](AI-Watch-References.md#jon-krohn)
-- [3Blue1Brown](AI-Watch-References.md#3blue1brown)
+- [JensenMath](https://github.com/indrayam/ai-nerd-notes/blob/main/references/AI-Watch-References.md#jensenmath)
+- [Dr. Dave Explains](https://github.com/indrayam/ai-nerd-notes/blob/main/references/AI-Watch-References.md#professor-dave-explains)
+- [Jon Krohn](https://github.com/indrayam/ai-nerd-notes/blob/main/references/AI-Watch-References.md#jon-krohn)
+- [3Blue1Brown](https://github.com/indrayam/ai-nerd-notes/blob/main/references/AI-Watch-References.md#3blue1brown)
 
 ## 2. Hands-On AI
 #### Read
@@ -20,12 +20,12 @@
 - [Deep Learing with PyTorch, 2nd Ed, Eli Stevens, Luca Antiga, Thomas Viehmann](https://livebook.manning.com/book/deep-learning-with-pytorch-second-edition?origin=dashboard)
 
 #### Watch
-- [Python](AI-Watch-References.md#python)
-- [PyTorch](AI-Watch-References.md#pytorch)
-- [Hugging Face](AI-Watch-References.md#hugging-face)
-- [Ollama](AI-Watch-References.md#ollama)
-- [Agentic AI](AI-Watch-References.md#agentic-ai)
-- [CUDA](AI-Watch-References.md#cuda)
+- [Python](https://github.com/indrayam/ai-nerd-notes/blob/main/references/AI-Watch-References.md#python)
+- [PyTorch](https://github.com/indrayam/ai-nerd-notes/blob/main/references/AI-Watch-References.md#pytorch)
+- [Hugging Face](https://github.com/indrayam/ai-nerd-notes/blob/main/references/AI-Watch-References.md#hugging-face)
+- [Ollama](https://github.com/indrayam/ai-nerd-notes/blob/main/references/AI-Watch-References.md#ollama)
+- [Agentic AI](https://github.com/indrayam/ai-nerd-notes/blob/main/references/AI-Watch-References.md#agentic-ai)
+- [CUDA](https://github.com/indrayam/ai-nerd-notes/blob/main/references/AI-Watch-References.md#cuda)
 
 ## 3. AI
 #### Read
@@ -33,12 +33,14 @@
 - [Build a Large Language Model from Scratch - Sebastian Raschka](https://learning.oreilly.com/library/view/-/9781633437166/)
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Ed, Aurélien Géron](https://learning.oreilly.com/library/view/-/9781098125967/)
 - [Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD, Jeremy Howard & Sylvain Gugger](https://learning.oreilly.com/library/view/-/9781492045519/)
+- [AI Engineering](https://learning.oreilly.com/library/view/-/9781098166298/)
+- [LLM Engineer's Handbook](https://learning.oreilly.com/library/view/-/9781836200079/)
 
 #### Watch
-- [Andrej Karpathy](AI-Watch-References.md#andrej-karpathy)
-- [DeepLearning.AI](AI-Watch-References.md#deeplearningai)
-- [Umair Jamil](AI-Watch-References.md#umair-jamil)
-- [Ed Donner](AI-Watch-References.md#ed-donner)
-- [Sinan Ozdemir](AI-Watch-References.md#sinan-ozdemir)
-- [Andrew Ng (Stanford)](AI-Watch-References.md#andrew-ng-stanford)
-- [Jeremy Howard](AI-Watch-References.md#jeremy-howard)
+- [Andrej Karpathy](https://github.com/indrayam/ai-nerd-notes/blob/main/references/AI-Watch-References.md#andrej-karpathy)
+- [DeepLearning.AI](https://github.com/indrayam/ai-nerd-notes/blob/main/references/AI-Watch-References.md#deeplearningai)
+- [Umair Jamil](https://github.com/indrayam/ai-nerd-notes/blob/main/references/AI-Watch-References.md#umair-jamil)
+- [Ed Donner](https://github.com/indrayam/ai-nerd-notes/blob/main/references/AI-Watch-References.md#ed-donner)
+- [Sinan Ozdemir](https://github.com/indrayam/ai-nerd-notes/blob/main/references/AI-Watch-References.md#sinan-ozdemir)
+- [Andrew Ng (Stanford)](https://github.com/indrayam/ai-nerd-notes/blob/main/references/AI-Watch-References.md#andrew-ng-stanford)
+- [Jeremy Howard](https://github.com/indrayam/ai-nerd-notes/blob/main/references/AI-Watch-References.md#jeremy-howard)
