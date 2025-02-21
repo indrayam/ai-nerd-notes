@@ -25,8 +25,11 @@ llm install -U llm-python
 llm install -U llm-jq
 llm install -U llm-deepseek
 llm install -U llm-sentence-transformers
+llm install -U einops
 llm install -U llm-clip
+llm install -U llm-mlx
 }
+# llm sentence-transformers register nomic-ai/nomic-embed-text-v2-moe --trust-remote-code
 # llm python -m pip install \
 #   --pre torch torchvision \
 #   --index-url https://download.pytorch.org/whl/nightly/cpu
@@ -51,8 +54,10 @@ llm install -U llm-python
 llm install -U llm-jq
 llm install -U llm-deepseek
 llm install -U llm-sentence-transformers
+llm install -U einops
 llm install -U llm-clip
 }
+# llm sentence-transformers register nomic-ai/nomic-embed-text-v2-moe --trust-remote-code
 #llm install -U llm-bedrock-anthropic
 #llm install -U llm-bedrock-meta
 ```
@@ -129,6 +134,7 @@ llm embed-models list
 llm embed-models default 3-small
 llm embed -m ada -c "Hello World"
 llm embed -m 3-small -c "Hello World"
+llm embed -m sentence-transformers/nomic-ai/nomic-embed-text-v2-moe -c 'Hello World'
 # Storing in collections
 llm collections list
 llm collection path

@@ -62,6 +62,9 @@
 - [What's special about Euler's number?](https://www.youtube.com/watch?v=m2MIpDrF7Es&list=PLYGGViEsFPrrVeIPeBkpAyGLUo3-f22AX&index=5&pp=gAQBiAQB)
 - [e to the pi](https://www.youtube.com/watch?v=F_0yfvm0UoU&list=PLYGGViEsFPrrVeIPeBkpAyGLUo3-f22AX&index=3&pp=gAQBiAQB)
 
+### Sebastian Lague
+- [A Brief Introduction to Neural Networks](https://www.youtube.com/watch?v=bVQUSndDllU)
+
 ### Serrano Academy
 - [Mathematics Videos](https://www.youtube.com/playlist?list=PLs8w1Cdi-zvbEpRC8YqZcSIKipAe1QHGt)
 - [Probability](https://www.youtube.com/playlist?list=PLs8w1Cdi-zvbv6iq6Xu01PgflKmMDRMDl)
@@ -181,6 +184,9 @@
 ### Emma Brunskill
 - [Stanford CS234 I Reinforcement Learning 2024](https://www.youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX)
 - [Stanford CS234: Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+
+### David Silver, Google DeepMind
+- [RL Course](https://www.youtube.com/playlist?list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-)
 
 ### Serrano Academy
 - Machine Learning

@@ -1,4 +1,15 @@
-# AI Reading References
+# AI References
+
+## Reading Set 5
+- [Emerging Patterns in Building GenAI Products](https://martinfowler.com/articles/gen-ai-patterns/#guardrails)
+- [Understanding LLMs from Scratch Using Middle School Math](https://towardsdatascience.com/understanding-llms-from-scratch-using-middle-school-math-e602d27ec876/)
+- [Making Deep Learning Go Brrrr From First Principles](https://horace.io/brrr_intro.html)
+- [Fine-tuning Llama 3.2 and Using It Locally: A Step-by-Step Guide](https://www.datacamp.com/tutorial/fine-tuning-llama-3-2)
+- [How to Fine-Tune DeepSeek-R1 for Your Custom Dataset (Step-by-Step)](https://www.kdnuggets.com/how-to-fine-tune-deepseek-r1-custom-dataset)
+- [The Ultra-Scale Playbook: Training LLMs on GPU Clusters](https://huggingface.co/spaces/nanotron/ultrascale-playbook)
+- [Jane Street: Building Machine Learning Systems for a Trillion Trillion Floating Point Operations](https://www.youtube.com/watch?v=139UPjoq7Kw)
+- [A Brief Introduction to NN (unfinished series)](https://www.youtube.com/watch?v=bVQUSndDllU&t=3s)
+
 
 ## Reading Set 4
 - [The best explanation of why NN works](https://x.com/jxmnop/status/1889395446340272271?s=43)

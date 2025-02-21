@@ -12,12 +12,12 @@
 - Before Machine Learning Vol 1 - Linear Algebra
 - Mathematics for Machine Learning, Marc Peter Deisenroth
 
-
 ### Python and Python Data Analysis
 - Python Crash Course, 3rd Ed
-- Python for Data Analysis, 2nd Ed
+- Python for Data Analysis, 3rd Ed, Wes McKinney
 - Automate the Boring Stuff with Python, 3rd Ed
-- Python Data Science Handbook, 2nd Ed
+- Python Data Science Handbook, 2nd Ed Jake VanderPlas
+- Numerical Python 2nd Ed, Robert Johansson
 - Fluent Python, 2nd Ed
 - Python Testing with pytest, 2nd Ed
 

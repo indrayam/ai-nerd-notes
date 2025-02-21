@@ -16,11 +16,19 @@
   - `sympy`
   - `scikit-learn`
   - `pandas`
-  - `torch`
-- `g++`
-  - `CUDA Toolkit`
+  - `transfomers`
+  - `langchain`
+  - `huggingface`
+  - `ollama`
+- `torch`
+  - `CUDA toolkit`
+  - `NCCL`
+  - `Triton`
+  - `nvcc`
+  - `ptxas`
 
-## 3. Machine Learning
+## 3. AI
+### Machine Learning
 - Linear Regression
 - Perceptron Algorithm
 - Logistic Classifiers
@@ -32,7 +40,7 @@
 - Ensemble Learning
 - Dimensionality Reduction using PCA
 
-## 4. Deep Learning
+### Deep Learning
 - Neural Networks
 - Forward Propogation
 - Backward Propogation/Gradient Descent
@@ -45,7 +53,7 @@
 - Generative Adversarial Networks
 - Deep Reinforcement Learning
 
-## 5. Large Language Models
+### Large Language Models
 - Understanding LLMs
   - Tokens and Embeddings
   - Transformers Architecture
@@ -60,8 +68,3 @@
   - Creating Text Embedding Models
   - Fine-tuning Representation Models for Classification
   - Fine-tuning Generation Models for Text Generation
-
-## AI Learning References
-- [AI Learning Resources](https://github.com/indrayam/ai-nerd-notes/blob/main/AI-Learning-Resources.md)
-- [AI Watch References](https://github.com/indrayam/ai-nerd-notes/blob/main/AI-Watch-References.md)
-- [AI Read References](https://github.com/indrayam/ai-nerd-notes/blob/main/AI-Read-References.md)

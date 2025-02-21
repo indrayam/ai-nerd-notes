@@ -41,6 +41,12 @@ export LD_LIBRARY_PATH=/usr/local/cuda-12/lib64:$LD_LIBRARY_PATH
 sudo shutdown -r now
 ```
 
+## Uninstall CUDA
+
+```bash
+sudo apt-get --purge remove cuda-toolkit-12-5 cuda-cccl-12-5 cuda-command-line-tools-12-5 cuda-compiler-12-5 cuda-crt-12-5 cuda-cudart-12-5 cuda-cudart-dev-12-5 cuda-cuobjdump-12-5 cuda-cupti-12-5 cuda-cupti-dev-12-5 cuda-cuxxfilt-12-5 cuda-documentation-12-5 cuda-driver-dev-12-5 cuda-gdb-12-5 cuda-libraries-12-5 cuda-libraries-dev-12-5 cuda-nsight-12-5 cuda-nsight-compute-12-5 cuda-nsight-systems-12-5 cuda-nvcc-12-5 cuda-nvdisasm-12-5 cuda-nvml-dev-12-5 cuda-nvprof-12-5 cuda-nvprune-12-5 cuda-nvrtc-12-5 cuda-nvrtc-dev-12-5 cuda-nvtx-12-5 cuda-nvvm-12-5 cuda-nvvp-12-5 cuda-opencl-12-5 cuda-opencl-dev-12-5 cuda-profiler-api-12-5 cuda-repo-ubuntu2204-12-5-local cuda-sanitizer-12-5 cuda-toolkit-12-5-config-common cuda-tools-12-5 cuda-visual-tools-12-5
+```
+
 ## Useful Commands
 
 ```bash
