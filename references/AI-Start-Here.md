@@ -43,7 +43,7 @@
 - [Andrew Ng (Stanford)](https://github.com/indrayam/ai-nerd-notes/blob/main/references/AI-Watch-References.md#andrew-ng-stanford)
 - [Jeremy Howard](https://github.com/indrayam/ai-nerd-notes/blob/main/references/AI-Watch-References.md#jeremy-howard)
 
-## 4. LLM Engineering
+## 4. AI Engineering
 
 #### Read
 - [AI Engineering](https://learning.oreilly.com/library/view/-/9781098166298/)
