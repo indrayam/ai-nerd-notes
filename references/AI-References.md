@@ -1,30 +1,42 @@
 # AI References
 
-## Reading Set 5
+## Reference Set 6
+- **[AI Engineering Book](https://learning.oreilly.com/library/view/ai-engineering/9781098166298/ch01.html)**
+- **[Introduction to CUDA Programming for Python Developers](https://www.pyspur.dev/blog/introduction_cuda_programming)**
+- **[Understanding LLMs from Scratch Using Middle School Math](https://towardsdatascience.com/understanding-llms-from-scratch-using-middle-school-math-e602d27ec876/)**
+- **[Hugging Face in 4 Hrs: Sinan Ozdemir](https://learning.oreilly.com/live-events/hugging-face-in-4-hours/0790145056533/0642572012958/)**
+- **[Fine-tuning Llama 3.2 and Using It Locally: A Step-by-Step Guide](https://www.datacamp.com/tutorial/fine-tuning-llama-3-2)**
+- **[How to Fine-Tune DeepSeek-R1 for Your Custom Dataset (Step-by-Step)](https://www.kdnuggets.com/how-to-fine-tune-deepseek-r1-custom-dataset)**
 - [Emerging Patterns in Building GenAI Products](https://martinfowler.com/articles/gen-ai-patterns/#guardrails)
-- [Understanding LLMs from Scratch Using Middle School Math](https://towardsdatascience.com/understanding-llms-from-scratch-using-middle-school-math-e602d27ec876/)
+- [My LLM Codegen Workflow](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/)
+
+## Reference Set 5
+- [Free Grok 3 Course](https://video.twimg.com/amplify_video/1892853833799520258/vid/avc1/1280x720/gFCX3hRJfY0JCEzW.mp4?tag=14)
+- [Deep-dive Llama3 from Scratch](https://github.com/therealoliver/Deepdive-llama3-from-scratch?tab=readme-ov-file)
+- [Please Stop Talking about AGI](https://substack.com/home/post/p-157633768)
 - [Making Deep Learning Go Brrrr From First Principles](https://horace.io/brrr_intro.html)
-- [Fine-tuning Llama 3.2 and Using It Locally: A Step-by-Step Guide](https://www.datacamp.com/tutorial/fine-tuning-llama-3-2)
-- [How to Fine-Tune DeepSeek-R1 for Your Custom Dataset (Step-by-Step)](https://www.kdnuggets.com/how-to-fine-tune-deepseek-r1-custom-dataset)
 - [The Ultra-Scale Playbook: Training LLMs on GPU Clusters](https://huggingface.co/spaces/nanotron/ultrascale-playbook)
+- [How to Scale Your Model ](https://jax-ml.github.io/scaling-book/)
 - [Jane Street: Building Machine Learning Systems for a Trillion Trillion Floating Point Operations](https://www.youtube.com/watch?v=139UPjoq7Kw)
 - [A Brief Introduction to NN (unfinished series)](https://www.youtube.com/watch?v=bVQUSndDllU&t=3s)
+- [AI Agents for Beginners Course: 10 Lessons teaching you how to start building AI Agents](https://devblogs.microsoft.com/semantic-kernel/ai-agents-for-beginners-course-10-lessons-teaching-you-how-to-start-building-ai-agents/)
+- [HF Agents Course](https://huggingface.co/learn/agents-course/unit0/introduction)
 
 
-## Reading Set 4
+## Reference Set 4
 - [The best explanation of why NN works](https://x.com/jxmnop/status/1889395446340272271?s=43)
 - [Best-Indian-AI-ML-Courses](https://github.com/AniruddhaChattopadhyay/Best-Indian-AI-ML-Courses?tab=readme-ov-file)
 - [Towards Democratizing RL for LLMs](https://pretty-radio-b75.notion.site/DeepScaleR-Surpassing-O1-Preview-with-a-1-5B-Model-by-Scaling-RL-19681902c1468005bed8ca303013a4e2)
   - Source: [This is wild - UC Berkeley shows that a tiny 1.5B model beats o1-preview on math by RL!...](https://x.com/Yuchenj_UW/status/1889387582066401461)
 - [Awesome AI/ML resources](https://github.com/armankhondker/awesome-ai-ml-resources)
 
-## Reading Set 3
+## Reference Set 3
 - [The StatQuest Illustrated Guide to Neural Networks and AI (PDF)](https://statquest.gumroad.com/l/kihdi)
 - [The StatQuest Illustrated Guide to Machine Learning (PDF)](https://statquest.gumroad.com/l/wvtmc)
 - [Articles About AI and Machine Learning](https://thelmbook.com/articles/#!./DeepSeek-R1.md)
 - [Why reasoning models will generalize - by Nathan Lambert](https://www.interconnects.ai/p/why-reasoning-models-will-generalize)
 - [Everything You Should - Know About GPTs - Generative Pre-Trained Transformers | Chaithanya - Kumar A](https://chaithanyak.com/machine/learning/2024/03/21/everything-you-need-to-know-about-gpts.html)
-- [The 2025 AI Engineering - Reading List - Latent Space](https://www.latent.space/p/2025-papers)
+- [The 2025 AI Engineering - Reference List - Latent Space](https://www.latent.space/p/2025-papers)
 - [The Annotated - Transformer](https://nlp.seas.harvard.edu/annotated-transformer/)
 - [Suchir - Balaji: agi view 3 8/14/24](https://docs.google.com/document/d/1ItRqrpgQHJ05rQx0zc26t1_NgpUcw3znwTWpXxqH8uI/mobilebasic)
 - [A Visual Guide to Mixture of - Experts (MoE)](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts)
@@ -45,7 +57,7 @@
 - [Visualize LLM](https://t.co/DPH5wBte2D)
   - Source: [Everyone should be using this website to understand the inside of an LLM...](https://x.com/deedydas/status/1889511316903411894?s=43)
 
-## Reading Set 2
+## Reference Set 2
 - [Using - pip to install a Large Language Model that’s under 100MB](https://simonwillison.net/2025/Feb/7/pip-install-llm-smollm2/)
 - [simonw/files-to-prompt: - Concatenate a directory full of files into a single prompt for use - with LLMs](https://github.com/simonw/files-to-prompt)
 - [Modular: - Democratizing Compute, Part 1: DeepSeek’s Impact on AI](https://www.modular.com/blog/democratizing-compute-part-1-deepseeks-impact-on-ai)
@@ -57,7 +69,7 @@
 - [Emerging - Patterns in Building GenAI Products](https://martinfowler.com/articles/gen-ai-patterns/#rag)
 - [A Visual Guide to Reasoning LLMs - by Maarten Grootendorst](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms)
 
-## Reading Set 1
+## Reference Set 1
 - [AI Papers](https://www.dropbox.com/scl/fo/2iah7adye9yx70u1keubq/AJ6c0z7Q5y4ZYVZOKmstO6o?rlkey=nq9w9fjx8wb71qi09gf03g45a&e=1&st=s437yxm3&dl=0)
 
 ## AI Skills

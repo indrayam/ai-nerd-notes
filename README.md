@@ -8,6 +8,7 @@
 
 ## 2. Hands-On AI
 - `python`
+- Data Analytics
   - `uv`
   - `jupyter`
   - `numpy`
@@ -16,16 +17,20 @@
   - `sympy`
   - `scikit-learn`
   - `pandas`
+- LLM Apps
   - `transfomers`
   - `langchain`
   - `huggingface`
   - `ollama`
-- `torch`
+- LLM Training
+  - `torch` (`tinygrad` or `tensorflow`)
   - `CUDA toolkit`
   - `NCCL`
   - `Triton`
   - `nvcc`
   - `ptxas`
+- LLM in Production
+  - `vllm`
 
 ## 3. AI
 ### Machine Learning

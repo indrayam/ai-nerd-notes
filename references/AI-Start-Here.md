@@ -33,8 +33,6 @@
 - [Build a Large Language Model from Scratch - Sebastian Raschka](https://learning.oreilly.com/library/view/-/9781633437166/)
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Ed, Aurélien Géron](https://learning.oreilly.com/library/view/-/9781098125967/)
 - [Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD, Jeremy Howard & Sylvain Gugger](https://learning.oreilly.com/library/view/-/9781492045519/)
-- [AI Engineering](https://learning.oreilly.com/library/view/-/9781098166298/)
-- [LLM Engineer's Handbook](https://learning.oreilly.com/library/view/-/9781836200079/)
 
 #### Watch
 - [Andrej Karpathy](https://github.com/indrayam/ai-nerd-notes/blob/main/references/AI-Watch-References.md#andrej-karpathy)
@@ -44,3 +42,13 @@
 - [Sinan Ozdemir](https://github.com/indrayam/ai-nerd-notes/blob/main/references/AI-Watch-References.md#sinan-ozdemir)
 - [Andrew Ng (Stanford)](https://github.com/indrayam/ai-nerd-notes/blob/main/references/AI-Watch-References.md#andrew-ng-stanford)
 - [Jeremy Howard](https://github.com/indrayam/ai-nerd-notes/blob/main/references/AI-Watch-References.md#jeremy-howard)
+
+## 4. LLM Engineering
+
+#### Read
+- [AI Engineering](https://learning.oreilly.com/library/view/-/9781098166298/)
+- [LLM Engineer's Handbook](https://learning.oreilly.com/library/view/-/9781836200079/)
+- [LLM in Production](https://learning.oreilly.com/library/view/llms-in-production/9781633437203/)
+
+#### Watch
+- ...
