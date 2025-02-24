@@ -1,20 +1,20 @@
 # AI References
 
-## Reference Set 7 
+## Reference Set 7
 - [AI Engineer Summit 2025 Day 1](https://www.youtube.com/watch?v=L89GzWEILkM)
-  - [Lux Capital: Trends in 2025](https://www.youtube.com/watch?v=L89GzWEILkM&t=1040s)
-  - [Ai-execs: Building an AI Strategy That Fails](https://www.youtube.com/watch?v=L89GzWEILkM&t=2111s)
-  - [Privacera: Building with AI Safety and Security](https://www.youtube.com/watch?v=L89GzWEILkM&t=3125s)
-  - [Augment Code: Self-Coding Agents](https://www.youtube.com/watch?v=L89GzWEILkM&t=4207s)
-  - [Neo4j: Knowledge Graphs](https://www.youtube.com/watch?v=L89GzWEILkM&t=7652s)
-  - [booking.com: Agents With Real ROI](https://www.youtube.com/watch?v=L89GzWEILkM&t=8907s)
-  - [Writer: Evaluating LLMs for Financial Scenarios](https://www.youtube.com/watch?v=L89GzWEILkM&t=10171s)
-  - [OpenAI: OpenAI for VPs](https://www.youtube.com/watch?v=L89GzWEILkM&t=10894s)
+  - [Beyond the Consensus: Navigating AI's Frontier in 2025 - Grace Isford of Lux Capital](https://www.youtube.com/watch?v=L89GzWEILkM&t=1040s)
+  - [How To Build an AI Strategy That Fails: Hamel Husain of Parlance Labs and Greg Ceccarelli of SpecStory](https://www.youtube.com/watch?v=L89GzWEILkM&t=2111s)
+  - [Balancing Innovation with Security & Safety - Don Bosco Durai of Privacera](https://www.youtube.com/watch?v=L89GzWEILkM&t=3125s)
+  - **[Building Self-Coding Agents - Colin Flaherty of Augment Code](https://www.youtube.com/watch?v=L89GzWEILkM&t=4207s)**
+  - [Anchoring Enterprise GenAI with Knowledge Graphs - Stephen Chin of Neo4j and Jonathan Lowe of Pfizer](https://www.youtube.com/watch?v=L89GzWEILkM&t=7652s)
+  - **[Building AI Agents with Real ROI in the Enterprise SDLC - Bruno Passos of Booking.com and Beyang Liu of Sourcegraph](https://www.youtube.com/watch?v=L89GzWEILkM&t=8907s)**
+  - [Building Trust in Enterprise AI: Evaluating Domain-Specific LLMs for Real-World Financial Scenarios - Waseem Alshikh of Writer](https://www.youtube.com/watch?v=L89GzWEILkM&t=10171s)
+  - [OpenAI for VPs of AI - Prashant Mital of OpenAI](https://www.youtube.com/watch?v=L89GzWEILkM&t=10894s)
   - [OpenAI: Building Agents the Right Way](https://www.youtube.com/watch?v=L89GzWEILkM&t=11387s)
-  - [Reuters:  Missing Pieces of Workflow Automation](https://www.youtube.com/watch?v=L89GzWEILkM&t=17489s)
+  - [Missing pieces of workflow automation - Shirsha Chaudhuri of Thomson Reuters](https://www.youtube.com/watch?v=L89GzWEILkM&t=17489s)
   - [Arize: Evaluating Agents](https://www.youtube.com/watch?v=L89GzWEILkM&t=18367s)
-  - [Datadog: Devops Engineer that Never Sleeps](https://www.youtube.com/watch?v=L89GzWEILkM&t=19693s)
-  - [Astra: How to build an AI Data Center](https://www.youtube.com/watch?v=L89GzWEILkM&t=20681s)
+  - **[The Devops Engineer Who Never Sleeps - Diamond Bishop of Datadog](https://www.youtube.com/watch?v=L89GzWEILkM&t=19693s)**
+  - [How to Build Your Own AI Data Center in 2025 - Paul Gilbert of Arista Networks](https://www.youtube.com/watch?v=L89GzWEILkM&t=20681s)
   - [Anthropic: Anthropic for VPs of AI](https://www.youtube.com/watch?v=L89GzWEILkM&t=22058s)
   - [Insights on Building AI Teams - Heath Black of SignalFire](https://www.youtube.com/watch?v=L89GzWEILkM&t=25540s)
   - **[LinkedIn: Lessons from Building LinkedIn’s GenAI Platform](https://www.youtube.com/watch?v=L89GzWEILkM&t=26767s)**
@@ -36,6 +36,8 @@
   - **[OpenAI: Creating Agents that Co-Create](https://www.youtube.com/watch?v=D7BzTxVVMuw&t=25593s)**
   - [Gemini: The Next AI Engineers](https://www.youtube.com/watch?v=D7BzTxVVMuw&t=27048s)
   - **[Meta: What does it take to build a personal, local, private AI Agent that augments you deeply?](https://www.youtube.com/watch?v=D7BzTxVVMuw&t=28346s)**
+- **[Lessons from building GenAI based applications — Juan Peredo](https://www.youtube.com/watch?v=YYcNm2RexnY)**
+- [AI Dot Engineer Videos](https://www.youtube.com/@aiDotEngineer/videos)
 - [Full Summary of AIDotEngineer Conference](https://x.com/matijagrcic/status/1893251390765420916?s=58)
 - [We’re Training AI Twice as Fast This Year as Last](https://spectrum.ieee.org/mlperf-rankings-2022)
 
