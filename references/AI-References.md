@@ -1,5 +1,44 @@
 # AI References
 
+## Reference Set 7 
+- [AI Engineer Summit 2025 Day 1](https://www.youtube.com/watch?v=L89GzWEILkM)
+  - [Lux Capital: Trends in 2025](https://www.youtube.com/watch?v=L89GzWEILkM&t=1040s)
+  - [Ai-execs: Building an AI Strategy That Fails](https://www.youtube.com/watch?v=L89GzWEILkM&t=2111s)
+  - [Privacera: Building with AI Safety and Security](https://www.youtube.com/watch?v=L89GzWEILkM&t=3125s)
+  - [Augment Code: Self-Coding Agents](https://www.youtube.com/watch?v=L89GzWEILkM&t=4207s)
+  - [Neo4j: Knowledge Graphs](https://www.youtube.com/watch?v=L89GzWEILkM&t=7652s)
+  - [booking.com: Agents With Real ROI](https://www.youtube.com/watch?v=L89GzWEILkM&t=8907s)
+  - [Writer: Evaluating LLMs for Financial Scenarios](https://www.youtube.com/watch?v=L89GzWEILkM&t=10171s)
+  - [OpenAI: OpenAI for VPs](https://www.youtube.com/watch?v=L89GzWEILkM&t=10894s)
+  - [OpenAI: Building Agents the Right Way](https://www.youtube.com/watch?v=L89GzWEILkM&t=11387s)
+  - [Reuters:  Missing Pieces of Workflow Automation](https://www.youtube.com/watch?v=L89GzWEILkM&t=17489s)
+  - [Arize: Evaluating Agents](https://www.youtube.com/watch?v=L89GzWEILkM&t=18367s)
+  - [Datadog: Devops Engineer that Never Sleeps](https://www.youtube.com/watch?v=L89GzWEILkM&t=19693s)
+  - [Astra: How to build an AI Data Center](https://www.youtube.com/watch?v=L89GzWEILkM&t=20681s)
+  - [Anthropic: Anthropic for VPs of AI](https://www.youtube.com/watch?v=L89GzWEILkM&t=22058s)
+  - [Insights on Building AI Teams - Heath Black of SignalFire](https://www.youtube.com/watch?v=L89GzWEILkM&t=25540s)
+  - **[LinkedIn: Lessons from Building LinkedIn’s GenAI Platform](https://www.youtube.com/watch?v=L89GzWEILkM&t=26767s)**
+  - [Specialized RAG Agents - Douwe Kiela of Contextual AI](https://www.youtube.com/watch?v=L89GzWEILkM&t=27831s)
+- [AI Engineer Summit 2025 Day 2](https://www.youtube.com/watch?v=D7BzTxVVMuw)
+  - [Why Agent Engineering](https://www.youtube.com/watch?v=D7BzTxVVMuw&t=936s)
+  - [AI Snake Oil: Building and Evaluating AI Agents](https://www.youtube.com/watch?v=D7BzTxVVMuw&t=1643s)
+  - [Gemini: Going deep on Gemini Deep Research](https://www.youtube.com/watch?v=D7BzTxVVMuw&t=2837s)
+  - **[Anthropic: How We Build Effective Agents](https://www.youtube.com/watch?v=D7BzTxVVMuw&t=3743s)**
+  - [Sierra: The Agent Development Life Cycle](https://www.youtube.com/watch?v=D7BzTxVVMuw&t=4650s)
+  - [Morgan Stanley: What RL Means for Agents](https://www.youtube.com/watch?v=D7BzTxVVMuw&t=5767s)
+  - **[Jane Street: Building AI-Powered Developer Tools at Jane Street](https://www.youtube.com/watch?v=D7BzTxVVMuw&t=10419s)**
+  - [Bloomberg: Challenges to Scaling Agents for Generative AI Products](https://www.youtube.com/watch?v=D7BzTxVVMuw&t=11451s)
+  - [Brightwave: Knowledge Agents for Finance Workflows](https://www.youtube.com/watch?v=D7BzTxVVMuw&t=12629s)
+  - **[Windsurf:  Agents are built at the fringe: getting from 90 to 100](https://www.youtube.com/watch?v=D7BzTxVVMuw&t=18454s)**
+  - [SuperDial: Voice AI: Your Bot Isn't Special](https://www.youtube.com/watch?v=D7BzTxVVMuw&t=20819s)
+  - [Method/OpenPipe: How we scaled 500m AI agents in production with 2 engineers](https://www.youtube.com/watch?v=D7BzTxVVMuw&t=19686s)
+  - [Ramp: AI Agents: the Bitter Lesson](https://www.youtube.com/watch?v=D7BzTxVVMuw&t=21972s)
+  - **[OpenAI: Creating Agents that Co-Create](https://www.youtube.com/watch?v=D7BzTxVVMuw&t=25593s)**
+  - [Gemini: The Next AI Engineers](https://www.youtube.com/watch?v=D7BzTxVVMuw&t=27048s)
+  - **[Meta: What does it take to build a personal, local, private AI Agent that augments you deeply?](https://www.youtube.com/watch?v=D7BzTxVVMuw&t=28346s)**
+- [Full Summary of AIDotEngineer Conference](https://x.com/matijagrcic/status/1893251390765420916?s=58)
+- [We’re Training AI Twice as Fast This Year as Last](https://spectrum.ieee.org/mlperf-rankings-2022)
+
 ## Reference Set 6
 - **[AI Engineering Book](https://learning.oreilly.com/library/view/ai-engineering/9781098166298/ch01.html)**
 - **[Introduction to CUDA Programming for Python Developers](https://www.pyspur.dev/blog/introduction_cuda_programming)**
@@ -9,6 +48,7 @@
 - **[How to Fine-Tune DeepSeek-R1 for Your Custom Dataset (Step-by-Step)](https://www.kdnuggets.com/how-to-fine-tune-deepseek-r1-custom-dataset)**
 - [Emerging Patterns in Building GenAI Products](https://martinfowler.com/articles/gen-ai-patterns/#guardrails)
 - [My LLM Codegen Workflow](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/)
+- [How Transformers Encoding works](https://x.com/khant_dev/status/1893172529730330938)
 
 ## Reference Set 5
 - [Free Grok 3 Course](https://video.twimg.com/amplify_video/1892853833799520258/vid/avc1/1280x720/gFCX3hRJfY0JCEzW.mp4?tag=14)

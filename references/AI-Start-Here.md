@@ -1,5 +1,10 @@
 # AI Start Here
 
+## Main References
+- [AI Engineering](https://learning.oreilly.com/library/view/-/9781098166298/)
+- [Hands-On Large Language Models, Jay Alammar](https://learning.oreilly.com/library/view/-/9781098150952/)
+- [Build a Large Language Model from Scratch - Sebastian Raschka](https://learning.oreilly.com/library/view/-/9781633437166/)
+
 ## 1. Mathematics
 #### Read
 - [Math for Deep Learning, Ronald T. Kneusel](https://learning.oreilly.com/library/view/-/9781098129101/)
