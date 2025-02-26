@@ -1,6 +1,8 @@
 # AI References
 
 ## Reference Set 7
+- **[Tutorial: Train your own Reasoning LLM for free!](https://x.com/UnslothAI/status/1894437705724924033)**
+- [A new generation of AIs: Claude 3.7 and Grok 3](https://www.oneusefulthing.org/p/a-new-generation-of-ais-claude-37)
 - [AI Engineer Summit 2025 Day 1](https://www.youtube.com/watch?v=L89GzWEILkM)
   - [Beyond the Consensus: Navigating AI's Frontier in 2025 - Grace Isford of Lux Capital](https://www.youtube.com/watch?v=L89GzWEILkM&t=1040s)
   - [How To Build an AI Strategy That Fails: Hamel Husain of Parlance Labs and Greg Ceccarelli of SpecStory](https://www.youtube.com/watch?v=L89GzWEILkM&t=2111s)
@@ -40,6 +42,7 @@
 - [AI Dot Engineer Videos](https://www.youtube.com/@aiDotEngineer/videos)
 - [Full Summary of AIDotEngineer Conference](https://x.com/matijagrcic/status/1893251390765420916?s=58)
 - [We’re Training AI Twice as Fast This Year as Last](https://spectrum.ieee.org/mlperf-rankings-2022)
+
 
 ## Reference Set 6
 - **[AI Engineering Book](https://learning.oreilly.com/library/view/ai-engineering/9781098166298/ch01.html)**
