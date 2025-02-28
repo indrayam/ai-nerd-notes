@@ -4,6 +4,7 @@ Source: [v2025-02-21](https://www.one-tab.com/page/ijVMR1_KQzaGrdwvN8Mmmg)
 
 
 - [Ever feel like you're not getting all the GPU you're paying for? You're not alone...](https://x.com/charles_irl/status/1894417646529253816)
+- [Simon W: Anyone seen any credible successs stories stories for fine-tuning LLMs to solve real-world business challenges?..](https://x.com/MaximeRivest/status/1895315348544483633)
 ---
 - https://x.com/svembu/status/1893828459463680054?s=43 | (1) Sridhar Vembu on X: "In terms of business use, what are the areas in which AI is useful today? I will list some (and please add others in comments): 1. Speech to text, text to speech, image recognition, authentication based on photos/videos/speech/.. 2. Image to text (character recognition) and" / X
 - https://mathspp.com/blog/using-uv-to-build-and-install-python-cli-apps | Using uv to build and install Python CLI apps | mathspp
