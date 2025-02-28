@@ -56,4 +56,4 @@
 - [LLM in Production](https://learning.oreilly.com/library/view/llms-in-production/9781633437203/)
 
 #### Watch
-- ...
+- *Coming soon*

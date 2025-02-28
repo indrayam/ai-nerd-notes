@@ -5,18 +5,16 @@
 - Statistics
 - Linear Algebra
 - Calculus
+- `desmos`, `numpy`, `scipy`, `matplotlib`, `sympy`
+- `LaTeX`, `overleaf.com`, `corca.io`
 
 ## 2. Hands-On AI
 - `python`
-- Data Analytics
+- Data Analytics/ML
   - `uv`
   - `jupyter`
-  - `numpy`
-  - `scipy`
-  - `matplotlib`
-  - `sympy`
-  - `scikit-learn`
   - `pandas`
+  - `scikit-learn`
 - LLM Apps
   - `transfomers`
   - `langchain`

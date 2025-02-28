@@ -3,6 +3,7 @@
 ## 1. Mathematics
 
 ### Jensen Math
+- **[Desmos Top 10 Features](https://youtu.be/A5lNCM_7M1w?si=lvci6-lRNsQZCBK3)**
 - [Fractions Top 10 Must Knows](https://youtu.be/8XmhGjgsiVc?si=baQuadUzNy2EvS0l)
 - [Exponents Top 10 Must Knows](https://youtu.be/fYI4uDrbEW0?si=TPUTvhYfidur7ppa)
 - [Logarithms Top 10 Must Knows](https://youtu.be/1D91df9AXHU?si=0xAJhqj3GOhvDXAy)
@@ -137,7 +138,8 @@
 - [CS231n: Computer Vision Specialization, w Fei Fei Lin](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
 - [Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 - [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=1331s)
-- [Deep-Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)
+- **[Deep-Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)**
+- **[How I use LLMs](https://www.youtube.com/watch?v=EWvNQjAaOHw)**
 
 ### DeepLearning.AI
 - [AI for Everyone](https://www.deeplearning.ai/courses/ai-for-everyone/)
