@@ -1,5 +1,10 @@
 # AI References
 
+## Reference Set 8
+- [Function Calling Guide: Google DeepMind Gemini 2.0 Flash](https://www.philschmid.de/gemini-function-calling)
+- [MIT: How to AI Almost Anything?](https://mit-mi.github.io/how2ai-course/spring2025/)
+- **[MIT: Introduction to Deep Learning March 2025 Edition](https://introtodeeplearning.com/)**
+
 ## Reference Set 7
 - **[Tutorial: Train your own Reasoning LLM for free!](https://x.com/UnslothAI/status/1894437705724924033)**
 - [A new generation of AIs: Claude 3.7 and Grok 3](https://www.oneusefulthing.org/p/a-new-generation-of-ais-claude-37)

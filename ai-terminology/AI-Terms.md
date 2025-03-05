@@ -5,6 +5,11 @@
 - A safetensors directory
 - A GGUF file
 - Quantization
+- K_S, K_M, K_L
+- Flash Attention
+- KV Caching
+- LoRA
+- QLoRA
 
 ## Basic Definitions and Concepts
 - Artificial Learning
