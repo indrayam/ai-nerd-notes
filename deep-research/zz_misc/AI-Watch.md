@@ -1,4 +1,8 @@
-# AI Watch References
+# AI Watch
+
+## WATCH NOW...
+- [AI Watch Later](https://www.youtube.com/playlist?list=PLYGGViEsFPrrNATDQg--6DkwWuKpFrv-l)
+- [Math Watch Later](https://www.youtube.com/playlist?list=PLYGGViEsFProd1RJttU1Ko5N_-matUiIY)
 
 ## 1. Mathematics
 
@@ -28,6 +32,9 @@
 - [Graphing Sine and Cosine](https://youtu.be/l1zog6IP9LA?si=ZhJoHe-sybdzBY_2)
 - [Trigonometry Applications](https://youtu.be/vA9cXLhgRz8?si=vJdjVZE6EQZxIbwt)
 - [Transformations of Sine and Cosine](https://youtu.be/dPNcPTnmuZw?si=RyIRPy4Wj8rV8KK-)
+
+### DeepLearning.AI
+- [Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/learn/machine-learning-linear-algebra/home/week/1)
 
 ### Eddie Woo
 - [What kind of subject is Mathematics?](https://www.youtube.com/watch?v=QSDZin0B05g&list=PLYGGViEsFPrrVeIPeBkpAyGLUo3-f22AX&index=25&pp=gAQBiAQB)
@@ -93,46 +100,7 @@
 - [AI Maths YouTube Playlist](https://www.youtube.com/playlist?list=PLeM4O8deP8GO3vIx_9eboO9tVpUKHYqRg)
 - [Math YouTube Playlist](https://www.youtube.com/playlist?list=PLYGGViEsFPrrVeIPeBkpAyGLUo3-f22AX)
 
-## 2. Hands-On AI
-
-### Python
-- [Getting Started with Python 2023](https://www.youtube.com/playlist?list=PLB5jA40tNf3u8tQ_dnrHkQOIKpjQ4gTP2)
-- [Linear Algebra with Python: Essential Math for Data Science - Michael Cullan](https://learning.oreilly.com/live-events/linear-algebra-with-python-essential-math-for-data-science/0636920303268/0636920363125/) Sep 2019, Feb 2020
-- [Linear Algebra with Python: Essential Math for Data Science - Russell Martin](https://learning.oreilly.com/live-events/linear-algebra-with-python-essential-math-for-data-science/0636920303268/0636920303251/) Sep 2019, Feb 2020
-- [Linear Regression with Python: Essential Math for Data Science - Michael Cullan](https://learning.oreilly.com/live-events/linear-regression-with-python-essential-math-for-data-science/0636920303282/0636920363163/) Feb 2020
-
-### PyTorch
-- [Introduction to PyTorch: A Somewhat Exhaustive Look at the Foundations for Deep Learning](https://youtu.be/d86lJxKInYg?si=5mv1nY0eXe4ihVXS)
-- [PyTorch for ML/DL](https://www.youtube.com/watch?v=V_xro1bcAuA&t=5258s)
-- [Hands-On Deep Neural Networks with PyTorch - Robert Alvarez](https://learning.oreilly.com/live-events/hands-on-deep-neural-networks-with-pytorch/0636920305781/0636920093856/) Sep 2023
-- [PyTorch 2.0 - Joe Papa](https://learning.oreilly.com/live-events/pytorch-20/0636920055927/0636920092412/) Sep 2023
-- [Practical Introduction To The World Of Computer Vision And Deep Learning With TensorFlow & Keras - Richmond Alake](https://learning.oreilly.com/live-events/practical-introduction-to-the-world-of-computer-vision-and-deep-learning-with-tensorflow-keras/0636920060577/0636920061406/) Dec 2021
-
-
-### Hugging Face
-- [Hugging Face in 4 Hrs: Sinan Ozdemir](https://learning.oreilly.com/live-events/hugging-face-in-4-hours/0790145056533/0642572012958/)
-- [Hugging Face Fundamentals for Machine Learning - Noureddin Sadawi](https://learning.oreilly.com/live-events/hugging-face-fundamentals-for-machine-learning/0642572010327/) Dec 2024
-- [Applied Hugging Face](https://learning.oreilly.com/videos/applied-hugging-face/10212022VIDEOPAIML/)
-- [Hugging Face for MLOps](https://learning.oreilly.com/course/hugging-face-for/28189144VIDEOPAIML/)
-
-### Agentic AI
-- [HF AI Agents Course Feb 2025](https://huggingface.co/learn/agents-course/unit0/introduction)
-- [AI Agents A-Z - Sinan Ozdemir](https://learning.oreilly.com/live-events/ai-agents-a-z/0642572007604/0642572012954/)
-
-### Ollama
-- [Harnessing Ollama](https://learning.oreilly.com/course/harnessing-ollama/9781837020058/)
-- [Importing Open Source Models to Ollama](https://www.youtube.com/watch?v=fnvZJU5Fj3Q&t=286s)
-
-### CUDA
-- [CUDA Programming Course](https://www.youtube.com/watch?v=86FAWCzIe_4&t=533s)
-- [Getting Started with CUDA for Python Programmers - Jeremy Howard](https://www.youtube.com/watch?v=nOxKexn3iBo&t=357s&pp=ygUSamVyZW15IGhvd2FyZCBjdWRh)
-- [Going Further with CUDA for Python Programmers - Jeremy Howard](https://www.youtube.com/watch?v=eUuGdh3nBGo&t=4s&pp=ygUSamVyZW15IGhvd2FyZCBjdWRh)
-
-### Anand Sharma Hands-On AI
-- [AS Python AI](https://www.youtube.com/playlist?list=PLYGGViEsFPrqhmVMp9PWjMdCbMC7HDg8P)
-- [AS CPU-GPU-Awesome](https://www.youtube.com/playlist?list=PLYGGViEsFPrqYocbWpb9GPT24rMlNncan)
-
-## 3. AI
+## 2. AI Engineering
 
 ### Andrej Karpathy
 - [CS231n: Computer Vision Specialization, w Fei Fei Lin](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
@@ -147,6 +115,7 @@
 - [Attention in Transformers](https://learn.deeplearning.ai/courses/attention-in-transformers-concepts-and-code-in-pytorch/lesson/han2t/introduction?_gl=1*1xgyp0d*_ga*MzY2NjgwNTY5LjE3Mzg2ODI4Nzk.*_ga_PZF1GBS1R1*MTczOTM4ODE0MS40LjEuMTczOTM4ODE1OC40My4wLjA.)
 - [How Transformer LLMs Work](https://learn.deeplearning.ai/courses/how-transformer-llms-work/lesson/1/introduction)
 - [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/1/introduction)
+- [Vibe Coding with Replit](https://www.deeplearning.ai/short-courses/vibe-coding-101-with-replit/)
 
 ### Umair Jamil
 - [Attention is all you Need (Transformer) Model Explanation](https://youtu.be/bCz4OMemCcA?si=3U58oW4x8dKbmar0)
@@ -230,8 +199,10 @@
 ### Carnegie Mellon University
 - [Advanced NLP Spring 2025](https://www.youtube.com/playlist?list=PLqC25OT8ZpD3WxQ0FwWMGPS_BcWdcKyZy)
 
+### Sebastian Raschka
+- [Build a LLM from Scratch Videos supporting the Book](https://www.youtube.com/playlist?list=PLTKMiZHVd_2IIEsoJrWACkIxLRdfMlw11)
+
 ### Anand Sharma AI
-- [AS AI Watch Later](https://www.youtube.com/playlist?list=PLYGGViEsFPrrNATDQg--6DkwWuKpFrv-l)
 - [AS AI](https://www.youtube.com/playlist?list=PLYGGViEsFPrpYAeM4nRPSjMjUSLaRtw5O)
 - [AS AI-Awesome](https://www.youtube.com/playlist?list=PLYGGViEsFPrrb3Zb3nhnjJhDl2FR_IuTQ)
 - [AS NN-Understanding-Thru-FSD YouTube](https://www.youtube.com/playlist?list=PLYGGViEsFProYwNrO9NHtZez98910CEbo)
@@ -239,6 +210,44 @@
 ### Stanford AI Courses
 - [Stanford CS234: Reinforcement Learning Spring 2024](https://web.stanford.edu/class/cs234/CS234Spr2024/index.html)
 - [Stanford CS224N NLP With Deep Learning - Hugging Face Tutorial](https://www.youtube.com/watch?v=b80by3Xk_A8)
+
+## 3. Python, Python Data Analysis, Computations using PyTorch, Language Model Frameworks and CUDA
+
+### Python
+- [Getting Started with Python 2023](https://www.youtube.com/playlist?list=PLB5jA40tNf3u8tQ_dnrHkQOIKpjQ4gTP2)
+- [Linear Algebra with Python: Essential Math for Data Science - Michael Cullan](https://learning.oreilly.com/live-events/linear-algebra-with-python-essential-math-for-data-science/0636920303268/0636920363125/) Sep 2019, Feb 2020
+- [Linear Algebra with Python: Essential Math for Data Science - Russell Martin](https://learning.oreilly.com/live-events/linear-algebra-with-python-essential-math-for-data-science/0636920303268/0636920303251/) Sep 2019, Feb 2020
+- [Linear Regression with Python: Essential Math for Data Science - Michael Cullan](https://learning.oreilly.com/live-events/linear-regression-with-python-essential-math-for-data-science/0636920303282/0636920363163/) Feb 2020
+
+### PyTorch
+- [Introduction to PyTorch: A Somewhat Exhaustive Look at the Foundations for Deep Learning](https://youtu.be/d86lJxKInYg?si=5mv1nY0eXe4ihVXS)
+- [PyTorch for ML/DL](https://www.youtube.com/watch?v=V_xro1bcAuA&t=5258s)
+- [Hands-On Deep Neural Networks with PyTorch - Robert Alvarez](https://learning.oreilly.com/live-events/hands-on-deep-neural-networks-with-pytorch/0636920305781/0636920093856/) Sep 2023
+- [PyTorch 2.0 - Joe Papa](https://learning.oreilly.com/live-events/pytorch-20/0636920055927/0636920092412/) Sep 2023
+- [Practical Introduction To The World Of Computer Vision And Deep Learning With TensorFlow & Keras - Richmond Alake](https://learning.oreilly.com/live-events/practical-introduction-to-the-world-of-computer-vision-and-deep-learning-with-tensorflow-keras/0636920060577/0636920061406/) Dec 2021
+
+### Hugging Face
+- [Hugging Face in 4 Hrs: Sinan Ozdemir](https://learning.oreilly.com/live-events/hugging-face-in-4-hours/0790145056533/0642572012958/)
+- [Hugging Face Fundamentals for Machine Learning - Noureddin Sadawi](https://learning.oreilly.com/live-events/hugging-face-fundamentals-for-machine-learning/0642572010327/) Dec 2024
+- [Applied Hugging Face](https://learning.oreilly.com/videos/applied-hugging-face/10212022VIDEOPAIML/)
+- [Hugging Face for MLOps](https://learning.oreilly.com/course/hugging-face-for/28189144VIDEOPAIML/)
+
+### Agentic AI
+- [HF AI Agents Course Feb 2025](https://huggingface.co/learn/agents-course/unit0/introduction)
+- [AI Agents A-Z - Sinan Ozdemir](https://learning.oreilly.com/live-events/ai-agents-a-z/0642572007604/0642572012954/)
+
+### Ollama
+- [Harnessing Ollama](https://learning.oreilly.com/course/harnessing-ollama/9781837020058/)
+- [Importing Open Source Models to Ollama](https://www.youtube.com/watch?v=fnvZJU5Fj3Q&t=286s)
+
+### CUDA
+- [CUDA Programming Course](https://www.youtube.com/watch?v=86FAWCzIe_4&t=533s)
+- [Getting Started with CUDA for Python Programmers - Jeremy Howard](https://www.youtube.com/watch?v=nOxKexn3iBo&t=357s&pp=ygUSamVyZW15IGhvd2FyZCBjdWRh)
+- [Going Further with CUDA for Python Programmers - Jeremy Howard](https://www.youtube.com/watch?v=eUuGdh3nBGo&t=4s&pp=ygUSamVyZW15IGhvd2FyZCBjdWRh)
+
+### Anand Sharma Hands-On AI
+- [AS Python AI](https://www.youtube.com/playlist?list=PLYGGViEsFPrqhmVMp9PWjMdCbMC7HDg8P)
+- [AS CPU-GPU-Awesome](https://www.youtube.com/playlist?list=PLYGGViEsFPrqYocbWpb9GPT24rMlNncan)
 
 ## 4. Stuff
 - [Machine Learning with Python - Dr. Noureddin Sadawi](https://learning.oreilly.com/live-events/machine-learning-with-python/0636920081059/0642572013346/) Feb 2025

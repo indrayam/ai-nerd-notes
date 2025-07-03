@@ -1,11 +1,46 @@
-# AI References
+# AI Reference Set 1
 
-## Reference Set 8
+## Set 11
+
+
+## Set 10
+- [Tiny LLM - LLM Serving in a Week](https://skyzh.github.io/tiny-llm/)
+- [Autoencoder by hand✍️Excel~ I designed this exercise to show how an Encoder-Decoder network convert input to code and reconstruct input from code](https://x.com/proftomyeh/status/1916860241150447737?s=43)
+
+## Set 9
+- [AI Agents explained without hype](https://nextword.substack.com/p/ai-agents-explained-without-hype?utm_source=post-email-title&publication_id=1745191&post_id=160189337&utm_campaign=email-post-title&isFreemail=true&r=t3x9&triedRedirect=true&utm_medium=email)
+- [LLM Embeddings Explained: A Visual and Intuitive Guide](https://huggingface.co/spaces/hesamation/primer-llm-embedding)
+- [Latest Memo: The role of developer skills in agentic coding](https://martinfowler.com/articles/exploring-gen-ai.html#memo-13)
+- [Tracing the thoughts of a large language model](https://www.anthropic.com/research/tracing-thoughts-language-model)
+- [The State of AI Security 2025](https://learn-cloudsecurity.cisco.com/state-of-ai-security-report)
+- [Everything You Need to Know about Vector Index Basics](https://zilliz.com/learn/vector-index)
+- [Pass@k vs Pass^k: Understanding Agent Reliability](https://www.philschmid.de/agents-pass-at-k-pass-power-k)
+
+## Set 8
+- [Digital Hygiene](https://karpathy.bearblog.dev/digital-hygiene/)
+- [Why MCP Won](https://www.latent.space/p/why-mcp-won)
+- [A Field Guide to Rapidly Improving AI Products](https://hamel.dev/blog/posts/field-guide/index.html)
+- [Error Analysis: The Highest ROI Technique In AI Engineering](https://www.youtube.com/watch?v=e2i6JbU2R-s)
+- [Build a LLM from Scratch Videos supporting the Book](https://www.youtube.com/playlist?list=PLTKMiZHVd_2IIEsoJrWACkIxLRdfMlw11)
+- [Thoughtworks: 8 Technology Trends That You Need to Know](https://youtu.be/xWHDxCyrq5w?si=yIRnnLCTjWcb978v)
+- [A Visual Guide to LLM Agents](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-llm-agents)
+- [Khan Academy Engineering Career Development](https://docs.google.com/document/d/1qr0d05X5-AsyDYqKRCfgGGcWSshTMd_vfTggfhDpbls/edit?tab=t.0)
+- [Not all AI-assisted programming is vibe coding (but vibe coding rocks)](https://simonwillison.net/2025/Mar/19/vibe-coding/)
+- [Transformers Laid Out](https://goyalpramod.github.io/blogs/Transformers_laid_out/)
+- [Ethan Mollick: Speaking things into existence](https://www.oneusefulthing.org/p/speaking-things-into-existence)
+- [How Developers are Using LLMs: Collection of links about how other developers are using LLMs to augment their work](https://tdhopper.com/blog/how-developers-are-using-llms/)
+- [Here’s how I use LLMs to help me write code](https://simonwillison.net/2025/Mar/11/using-llms-for-code/)
+- [Fine-tuning Guide from Unsloth](https://docs.unsloth.ai/get-started/fine-tuning-guide)
+- [Attention from Beginners Point of View](https://mrinalxdev.github.io/mrinalxblogs/blogs/attention.html)
+- [DeepSeek's open-source week and why it's a big deal](https://www.pyspur.dev/blog/deepseek_open_source_week)
+- [A Primer on AI Data Centers](https://www.generativevalue.com/p/a-primer-on-ai-data-centers)
+- [Multihead Attention (Simplified)](https://www.k-a.in/llm4.html)
+- [Understanding LLMs: A Simple Guide to Large Language Models](https://blog.oedemis.io/understanding-llms-a-simple-guide-to-large-language-models)
 - [Function Calling Guide: Google DeepMind Gemini 2.0 Flash](https://www.philschmid.de/gemini-function-calling)
 - [MIT: How to AI Almost Anything?](https://mit-mi.github.io/how2ai-course/spring2025/)
 - **[MIT: Introduction to Deep Learning March 2025 Edition](https://introtodeeplearning.com/)**
 
-## Reference Set 7
+## Set 7
 - **[Tutorial: Train your own Reasoning LLM for free!](https://x.com/UnslothAI/status/1894437705724924033)**
 - [A new generation of AIs: Claude 3.7 and Grok 3](https://www.oneusefulthing.org/p/a-new-generation-of-ais-claude-37)
 - [AI Engineer Summit 2025 Day 1](https://www.youtube.com/watch?v=L89GzWEILkM)
@@ -49,7 +84,7 @@
 - [We’re Training AI Twice as Fast This Year as Last](https://spectrum.ieee.org/mlperf-rankings-2022)
 
 
-## Reference Set 6
+## Set 6
 - **[AI Engineering Book](https://learning.oreilly.com/library/view/ai-engineering/9781098166298/ch01.html)**
 - **[Introduction to CUDA Programming for Python Developers](https://www.pyspur.dev/blog/introduction_cuda_programming)**
 - **[Understanding LLMs from Scratch Using Middle School Math](https://towardsdatascience.com/understanding-llms-from-scratch-using-middle-school-math-e602d27ec876/)**
@@ -60,7 +95,7 @@
 - [My LLM Codegen Workflow](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/)
 - [How Transformers Encoding works](https://x.com/khant_dev/status/1893172529730330938)
 
-## Reference Set 5
+## Set 5
 - [Free Grok 3 Course](https://video.twimg.com/amplify_video/1892853833799520258/vid/avc1/1280x720/gFCX3hRJfY0JCEzW.mp4?tag=14)
 - [Deep-dive Llama3 from Scratch](https://github.com/therealoliver/Deepdive-llama3-from-scratch?tab=readme-ov-file)
 - [Please Stop Talking about AGI](https://substack.com/home/post/p-157633768)
@@ -73,14 +108,14 @@
 - [HF Agents Course](https://huggingface.co/learn/agents-course/unit0/introduction)
 
 
-## Reference Set 4
+## Set 4
 - [The best explanation of why NN works](https://x.com/jxmnop/status/1889395446340272271?s=43)
 - [Best-Indian-AI-ML-Courses](https://github.com/AniruddhaChattopadhyay/Best-Indian-AI-ML-Courses?tab=readme-ov-file)
 - [Towards Democratizing RL for LLMs](https://pretty-radio-b75.notion.site/DeepScaleR-Surpassing-O1-Preview-with-a-1-5B-Model-by-Scaling-RL-19681902c1468005bed8ca303013a4e2)
   - Source: [This is wild - UC Berkeley shows that a tiny 1.5B model beats o1-preview on math by RL!...](https://x.com/Yuchenj_UW/status/1889387582066401461)
 - [Awesome AI/ML resources](https://github.com/armankhondker/awesome-ai-ml-resources)
 
-## Reference Set 3
+## Set 3
 - [The StatQuest Illustrated Guide to Neural Networks and AI (PDF)](https://statquest.gumroad.com/l/kihdi)
 - [The StatQuest Illustrated Guide to Machine Learning (PDF)](https://statquest.gumroad.com/l/wvtmc)
 - [Articles About AI and Machine Learning](https://thelmbook.com/articles/#!./DeepSeek-R1.md)
@@ -107,7 +142,7 @@
 - [Visualize LLM](https://t.co/DPH5wBte2D)
   - Source: [Everyone should be using this website to understand the inside of an LLM...](https://x.com/deedydas/status/1889511316903411894?s=43)
 
-## Reference Set 2
+## Set 2
 - [Using - pip to install a Large Language Model that’s under 100MB](https://simonwillison.net/2025/Feb/7/pip-install-llm-smollm2/)
 - [simonw/files-to-prompt: - Concatenate a directory full of files into a single prompt for use - with LLMs](https://github.com/simonw/files-to-prompt)
 - [Modular: - Democratizing Compute, Part 1: DeepSeek’s Impact on AI](https://www.modular.com/blog/democratizing-compute-part-1-deepseeks-impact-on-ai)
@@ -119,13 +154,8 @@
 - [Emerging - Patterns in Building GenAI Products](https://martinfowler.com/articles/gen-ai-patterns/#rag)
 - [A Visual Guide to Reasoning LLMs - by Maarten Grootendorst](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms)
 
-## Reference Set 1
+## Set 1
 - [AI Papers](https://www.dropbox.com/scl/fo/2iah7adye9yx70u1keubq/AJ6c0z7Q5y4ZYVZOKmstO6o?rlkey=nq9w9fjx8wb71qi09gf03g45a&e=1&st=s437yxm3&dl=0)
 
-## AI Skills
-- [AI Skills](https://github.com/indrayam/ai-nerd-notes)
 
-## AI References
-- [AI Learning Resources](https://github.com/indrayam/ai-nerd-notes/blob/main/AI-Learning-Resources.md)
-- [AI Watch References](https://github.com/indrayam/ai-nerd-notes/blob/main/AI-Watch-References.md)
 

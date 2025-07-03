@@ -20,6 +20,17 @@
   - `langchain`
   - `huggingface`
   - `ollama`
+  - `llama.cpp`
+  - Structured LLM Output
+    - `guidance` (A guidance language for controlling large language models)
+    - `outlines` (Structured Text Generation)
+    - `instructor` (structured outputs for llms)
+  - LLM Application Evaluation
+    - OpenAI `Evals`
+    - `mlflow.metrics`
+    -`ragas`
+    - LangChain `openevals`
+    - LangChain `agentevals`
 - LLM Training
   - `torch` (`tinygrad` or `tensorflow`)
   - `CUDA toolkit`

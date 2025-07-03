@@ -1,3 +1,0 @@
-# Teaching AI
-
-...

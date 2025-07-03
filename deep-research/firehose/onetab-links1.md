@@ -2,7 +2,9 @@
 
 Source: [v2025-02-21](https://www.one-tab.com/page/ijVMR1_KQzaGrdwvN8Mmmg)
 
+- [Musings on building a Generative AI product](https://www.linkedin.com/blog/engineering/generative-ai/musings-on-building-a-generative-ai-product?_l=en_US) Source: AIE Book
 - [Applied Machine Learning in Python Book by UT Professor](https://geostatsguy.github.io/MachineLearningDemos_Book/intro.html)
+  - [Machine Learning YT Playlist](https://www.youtube.com/playlist?list=PLG19vXLQHvSC2ZKFIkgVpI9fCjkN38kwf)
 - [Foundations of Large Language Models](https://arxiv.org/abs/2501.09223)
 - [Structured data extraction from unstructured content using LLM schemas](https://simonwillison.net/2025/Feb/28/llm-schemas/)
 - [Simon W: Anyone seen any credible successs stories stories for fine-tuning LLMs to solve real-world business challenges?..](https://x.com/MaximeRivest/status/1895315348544483633)

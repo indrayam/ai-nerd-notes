@@ -1,4 +1,4 @@
-# AI Books Resources
+# AI Books
 
 ### Mathematics
 - Essential Math for Data Science, Thomas Nield
@@ -35,16 +35,23 @@
 - Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD, Jeremy Howard & Sylvain Gugger
 
 ### Multi-Modal Language Models
+- Hands-On Large Language Models, Jay Alammar
+- Build a Large Language Model from Scratch - Sebastian Raschka
 - The Hundred-Page Language Models Book
 - The AI Pocketbook
-- Hands-On Large Language Models, Jay Alammar
 - Quick Start Guide to Large Language Models, Sinan Ozdemir
-- LLM Engineer's Handbook
-- Build a Large Language Model from Scratch - Sebastian Raschka
 - The Complete Obsolete Guide to Generative AI
+
+### AI Engineering
 - AI Engineering (AIE), Chip Huyen
+- LLM Engineer's Handbook
 - Generative AI on AWS
 - Amazon Bedrock in Action
+
+### Computations using PyTorch (PyTorch using CUDA and MPS) and MLX
+- Deep Learning with Python, 3rd Ed
+- Deep Learning with PyTorch, 2nd Ed
+- Neural Networks from Scratch in Python
 
 ### Computations using Multi-Modal Language Model Frameworks
 - A Simple Guide to Retrieval Augmented Generation
@@ -53,12 +60,7 @@
 - LangChain in Action
 - Multi-Agent Systems with AutoGen 
 
-### Computations using PyTorch (PyTorch using CUDA and MPS) and MLX
-- Deep Learning with Python, 3rd Ed
-- Deep Learning with PyTorch, 2nd Ed
-- Neural Networks from Scratch in Python
-
-### Computations using CUDA/C++
+### Computations using CUDA
 - Programming Massively Parallel Processors, 3rd Ed
 - GPU Programming with Python and CUDA
 - Professional CUDA C Programming
