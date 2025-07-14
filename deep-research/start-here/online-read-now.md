@@ -1,6 +1,6 @@
 # AI Online Now
 
-## Now 1
+## Set 1
 - [Welcome to the Era of Experience](https://storage.googleapis.com/deepmind-media/Era-of-Experience%20/The%20Era%20of%20Experience%20Paper.pdf)
 - [AI Agents explained without hype](https://nextword.substack.com/p/ai-agents-explained-without-hype?utm_source=post-email-title&publication_id=1745191&post_id=160189337&utm_campaign=email-post-title&isFreemail=true&r=t3x9&triedRedirect=true&utm_medium=email)
 - [Latest Memo: The role of developer skills in agentic coding](https://martinfowler.com/articles/exploring-gen-ai.html#memo-13)

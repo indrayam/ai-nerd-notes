@@ -1,14 +1,27 @@
 # OneTab Links
 
+https://www.interconnects.ai/p/grok-4-an-o3-look-alike-in-search | xAI's Grok 4: The tension of frontier performance with a side of Elon favoritism
+https://nlp.elvissaravia.com/p/context-engineering-guide | Context Engineering Guide
+https://blog.bytebytego.com/p/ep171-the-generative-ai-tech-stack | GenAI Tech Stack
+https://www.byhand.ai/p/mcp-by-hand | MCP by hand
+https://martinfowler.com/articles/exploring-gen-ai/i-still-care-about-the-code.html | I still care about the code
+https://drive.google.com/file/d/1aS5x7QnlkDebG9jL9BbUvaOA3glzgYK-/view | AI Evals Frequently Asked Questions
+https://docs.google.com/document/d/1uvAbEhbgS_M-uDMTzmOWRlYxqCkogKRXdbKYYT98ooc/edit?tab=t.0#heading=h.lxp3eg9lr5k9 | Harvard CS197 AI Research Experiences
+https://twitter.com/GaryMarcus/status/1941266659152626112 | Agents (c. 2025) suck, just like I told you they would.
+https://futurism.com/ai-agents-failing-industry | The Percentage of Tasks AI Agents Are Currently Failing At May Spell Trouble for the Industry
+https://www.youtube.com/watch?v=8kMaTybvDUw | 12-Factor Agents: Patterns of reliable LLM applications
 https://x.com/bentossell/status/1924435822939340973 | Non-technical guide to Codex
 https://www.youtube.com/watch?v=wSAkqlzSZyw | Building Faster with Codex
 https://www.leoniemonigatti.com/blog/what_i_learned.html | 37 Things I Learned About Information Retrieval in Two Years at a Vector Database Company
+https://www.instagram.com/reel/DKt9BtYAHPc/?igsh=dDJuY2tkcGFxcThr | Software Jobs Instagram Video from Shri
+https://github.com/Shubhamsaboo/awesome-llm-apps?tab=readme-ov-file | Awesome LLM Apps
 https://x.com/matthewberman/status/1940467524749152342?s=58 | Can AI agents automate all work? Aaron Levie interview
 https://x.com/TOtechweek/status/1940437203928150526 | Chamath and Tobi (Shopify) on AI, Energy, etc.
 https://albertofortin.com/writing/coding-with-ai | After months of coding with LLMs, I'm going back to using my brain
 https://steipete.me/posts/2025/essential-reading | Essential Reading for Agentic Engineers
 https://x.com/MatthewBerman/status/1939739208161402915 | Dylan Patel breaks down the AI Arms race
 https://medium.com/promptlayer/tool-calling-with-llms-how-and-when-to-use-it-d65493a87954 | Tool Calling with LLMs: How and when to use it?
+https://www.anthropic.com/engineering/building-effective-agents | Building Effective Agents
 https://cuong.io/blog/2025/06/24-claude-code-subagent-deep-dive | Claude Code: Subagent Deep Dive
 https://x.com/simonw/status/1939895898152313215 | Using Claude Code to put together a simple GitHub Actions workflow
 https://gist.github.com/simonw/07eb3f32bad5b9f21b4e65f86327e302 | LLM digest: May 2025
@@ -106,6 +119,7 @@ https://x.com/mustafasuleyman/status/1934658731507114396 | (2) Mustafa Suleyman 
 https://github.blog/changelog/2025-06-12-remote-github-mcp-server-is-now-available-in-public-preview/?utm_campaign=1234&utm_source=twitter&utm_medium=social&utm_content=1750096745 | Remote GitHub MCP Server is now in public preview - GitHub Changelog
 https://x.com/karpathy/status/1934651657444528277 | (2) Andrej Karpathy on X: "RT to help Simon raise awareness of prompt injection attacks in LLMs. Feels a bit like the wild west of early computing, with computer viruses (now = malicious prompts hiding in web data/tools), and not well developed defenses (antivirus, or a lot more developed kernel/user" / X
 https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/ | The lethal trifecta for AI agents: private data, untrusted content, and external communication
+https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/ | Design Patterns for Securing LLM Agents against Prompt Injections
 https://www.mckinsey.com/capabilities/quantumblack/our-insights/seizing-the-agentic-ai-advantage#/ | GenAI paradox: exploring AI use cases | McKinsey
 https://x.com/emollick/status/1934669417494745559 | (2) Ethan Mollick on X: "McKinsey's new report on AI agents shows the same mindset I see in many firms: a focus on making small, obsolete models do basic work (look at their suggested models!) rather than realizing that smarter models can do higher-end work (and those models are getting cheaper &amp; better) https://t.co/GujvgeACxJ" / X
 https://platform.openai.com/docs/mcp | MCP servers - OpenAI API

@@ -1,8 +1,10 @@
 # Cisco AI Links
 
+https://outshift.cisco.com/the-internet-of-agents | Internet of Agents (Outshift)
 https://www.youtube.com/watch?v=ah_z7EAxPrE | Announcing Cisco AI Canvas. Revolutionizing IT with AgenticOps
 https://ai-use-case-library.cisco.com/ | AI Prompt Library
-https://cisco-my.sharepoint.com/:p:/p/rowenc/Edthv3Q4duJPqMBbzB-nCN4BZ0dcP2yXvdcHbw3_NMbhQA?e=GZyBmx | Does AI Change Everything?
+https://cisco-my.sharepoint.com/:v:/p/rowenc/EVn84xjnuh1Ak0wb-THtWPoBbO9s77nXWB4OxKbx_Qwotg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=oC2TC6 | Does AI Change Everything? Video
+https://cisco-my.sharepoint.com/:p:/p/rowenc/Edthv3Q4duJPqMBbzB-nCN4BZ0dcP2yXvdcHbw3_NMbhQA?e=GZyBmx | Does AI Change Everything? PowerPoint
 https://cisco-my.sharepoint.com/:p:/p/nlavaee/Ed4eyVtpFqFBsFg34JdVMuEB74ls8aySU5W8k_QU9iOjaQ | AgenticOps in Motion - Cisco AI Canvas
 https://www.ciscolive.com/on-demand/on-demand-library.html?showMyInterest=true#/ | Cisco Live On-Demand Favorites
 https://cisco.webex.com/cisco/ldr.php?RCID=6a4e0dfb9d20179187265bee2b55e285 (iXXppXU3) | LLM Convo CoE Codex Discussion
