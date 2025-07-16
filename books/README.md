@@ -1,0 +1,95 @@
+# AI Books Reference
+
+## Set 2
+- Mathematics
+  - [Math for Deep Learning, Ronald T. Kneusel](https://learning.oreilly.com/library/view/-/9781098129101/)
+  - [Essential Math for Data Science, Thomas Nield](https://learning.oreilly.com/library/view/-/9781098102920/)
+- Python and Python Data Analysis
+  - [Python Data Science Handbook 2nd Ed, Jake VanderPlas](https://learning.oreilly.com/library/view/-/9781098121211/)
+  - [Python for Data Analysis, 3rd Ed, Wes McKinney](https://learning.oreilly.com/library/view/python-for-data/9781098104023/)
+- Machine Learning, Deep Learning and Reinforcement Learning
+  - [Data Science from Scratch, 2nd Ed, Joel Grus](https://learning.oreilly.com/library/view/-/9781492041122/)
+  - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Ed, Aurélien Géron](https://learning.oreilly.com/library/view/-/9781098125967/)
+- Multi-Modal Language Models
+  - [How Large Language Models Work](https://livebook.manning.com/book/how-large-language-models-work)
+  - [Hands-On Large Language Models, Jay Alammar](https://learning.oreilly.com/library/view/-/9781098150952/)
+  - [Build a Large Language Model from Scratch - Sebastian Raschka](https://learning.oreilly.com/library/view/-/9781633437166/)
+  - [Master and Build Large Language Models](https://livevideo.manning.com/course/1820?fromDashboard=true)
+- AI Engineering
+  - [AI Engineering](https://learning.oreilly.com/library/view/-/9781098166298/)
+  - [LLM Engineer's Handbook](https://learning.oreilly.com/library/view/-/9781836200079/)
+  - [LLM in Production](https://learning.oreilly.com/library/view/llms-in-production/9781633437203/)
+- Agentic AI Apps Development
+  - [Build an LLM Application from Scratch](https://livebook.manning.com/book/build-an-llm-application-from-scratch)
+  - [Hugging Face in Action](https://livebook.manning.com/book/hugging-face-in-action/welcome/)
+  - [LangChain in Action](https://livebook.manning.com/book/langchain-in-action/welcome/)
+  - [AI Agents in Action](https://livebook.manning.com/book/ai-agents-in-action)
+- AI Apps using PyTorch (PyTorch using CUDA and MPS) and MLX
+  - [Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD, Jeremy Howard & Sylvain Gugger](https://learning.oreilly.com/library/view/-/9781492045519/)
+  - [Deep Learning with Python, 3rd Ed, François Chollet](https://livebook.manning.com/book/deep-learning-with-python-third-edition?origin=dashboard)
+  - [Deep Learing with PyTorch, 2nd Ed, Eli Stevens, Luca Antiga, Thomas Viehmann](https://livebook.manning.com/book/deep-learning-with-pytorch-second-edition?origin=dashboard)
+- AI Apps using CUDA
+  - [Programming Massively Parallel Processors, 4th Ed](https://learning.oreilly.com/library/view/programming-massively-parallel/9780323984638/)
+
+## Set 1
+
+- Mathematics
+  - Essential Math for Data Science, Thomas Nield
+  - Math for Deep Learning, Ronald T. Kneusel
+  - Numerical Python 2nd Ed, Robert Johansson 
+  - Linear Algebra Step-by-Step, Kuldeep Singh
+  - Practical Linear Algebra for Data Science, Mike Cohen
+  - Linear Algebra: Theory, Intuition, Code, Mike X Cohen
+  - Practical Statistics for Data Scientists, 2nd Ed - Andrew Bruce, Peter Bruce
+  - Bayesian Statistics the Fun Way, Will Kurt
+  - Before Machine Learning Vol 1 - Linear Algebra
+  - Mathematics for Machine Learning, Marc Peter Deisenroth
+- Python and Python Data Analysis
+  - Python Crash Course, 3rd Ed
+  - Python for Data Analysis, 3rd Ed, Wes McKinney
+  - Automate the Boring Stuff with Python, 3rd Ed
+  - Python Data Science Handbook, 2nd Ed Jake VanderPlas
+  - Numerical Python 2nd Ed, Robert Johansson
+  - Fluent Python, 2nd Ed
+  - Python Testing with pytest, 2nd Ed
+- Machine Learning, Deep Learning and Reinforcement Learning
+  - Grokking Machine Learning
+  - The Hundred-Page Machine Learning Book
+  - Grokking Deep Learning
+  - Grokking Deep Reinforcement Learning
+  - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Ed
+  - Machine Learning with PyTorch and Scikit-Learn, 2nd Ed
+  - Deep Learning Illustrated, Jon Krohn & Grant Beyleveld
+  - How AI Works
+  - Data Science from Scratch, 2nd Ed
+  - Designing Machine Learning Systems (DMLS)
+  - Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD, Jeremy Howard & Sylvain Gugger
+- Multi-Modal Language Models
+  - Hands-On Large Language Models, Jay Alammar
+  - Build a Large Language Model from Scratch - Sebastian Raschka
+  - The Hundred-Page Language Models Book
+  - The AI Pocketbook
+  - Quick Start Guide to Large Language Models, Sinan Ozdemir
+  - The Complete Obsolete Guide to Generative AI
+- AI Engineering
+  - AI Engineering (AIE), Chip Huyen
+  - LLM Engineer's Handbook
+  - Generative AI on AWS
+  - Amazon Bedrock in Action
+- Computations using PyTorch (PyTorch using CUDA and MPS) and MLX
+  - Deep Learning with Python, 3rd Ed
+  - Deep Learning with PyTorch, 2nd Ed
+  - Neural Networks from Scratch in Python
+- Computations using Multi-Modal Language Model Frameworks
+  - A Simple Guide to Retrieval Augmented Generation
+  - A Damn Fine Stable Diffusion Book
+  - Hugging Face in Action
+  - LangChain in Action
+  - Multi-Agent Systems with AutoGen 
+- Computations using CUDA
+  - Programming Massively Parallel Processors, 3rd Ed
+  - GPU Programming with Python and CUDA
+  - Professional CUDA C Programming
+  - 21st Century C 2nd Ed
+  - Understanding and Using C Pointers
+

@@ -1,6 +1,6 @@
-# Online Awesome List
+# AI Awesome List
 
-## Set 1
+## Online Awesome List
 - [Welcome to the Era of Experience](https://storage.googleapis.com/deepmind-media/Era-of-Experience%20/The%20Era%20of%20Experience%20Paper.pdf)
 - [AI Agents explained without hype](https://nextword.substack.com/p/ai-agents-explained-without-hype?utm_source=post-email-title&publication_id=1745191&post_id=160189337&utm_campaign=email-post-title&isFreemail=true&r=t3x9&triedRedirect=true&utm_medium=email)
 - [Latest Memo: The role of developer skills in agentic coding](https://martinfowler.com/articles/exploring-gen-ai.html#memo-13)
@@ -26,3 +26,10 @@
 - [Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/learn/machine-learning-linear-algebra/home/week/1)
 - [Andrej K: Deep-Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 - [How to build & deploy agents, according to OpenAI](https://www.youtube.com/watch?v=joHR2pmxDQE)
+
+## Watch Awesome List
+- [Master and Build Large Language Models - Sebastian Raschka](https://livevideo.manning.com/module/1820_1_1/master-and-build-large-language-models/chapter-1---understanding-large-language-models/python-environment-setup-video?)
+
+## Books Awesome List
+- [AI Engineering](https://learning.oreilly.com/library/view/-/9781098166298/)
+- [Hands-On Large Language Models, Jay Alammar](https://learning.oreilly.com/library/view/-/9781098150952/)

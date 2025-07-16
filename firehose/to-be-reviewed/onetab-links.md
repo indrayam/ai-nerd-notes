@@ -1,6 +1,7 @@
 # Onetab Links
 
 ## Set 13
+- https://x.com/sama/status/1945541270438646270 | AI Wisdom from Sam Altman
 - https://gwern.net/ai-daydreaming | LLM Daydreaming
 - https://arxiv.org/abs/2507.11473 | Chain of Thought Monitorability
 - https://calv.info/openai-reflections | OpenAI Reflections
