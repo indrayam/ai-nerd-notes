@@ -1,4 +1,4 @@
-# AI Books Reference Set 1
+# AI Books Reference
 
 ## Set 1
 - Core Reading

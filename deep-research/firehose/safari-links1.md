@@ -1,3 +1,0 @@
-# Safari Recorded Lessons
-
-- ...

@@ -1,4 +1,4 @@
-# AI Online Now
+# Online Awesome List
 
 ## Set 1
 - [Welcome to the Era of Experience](https://storage.googleapis.com/deepmind-media/Era-of-Experience%20/The%20Era%20of%20Experience%20Paper.pdf)
