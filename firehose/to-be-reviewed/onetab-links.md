@@ -1,6 +1,8 @@
 # Onetab Links
 
 ## Set 13
+- https://linear.app/blog/mercury-linear-ai-agents | Inside Mercury’s six-month journey building with AI agents
+- https://twitter.com/aaditsh/status/1945583029629718667 | AI for Beginners video
 - https://x.com/sama/status/1945541270438646270 | AI Wisdom from Sam Altman
 - https://gwern.net/ai-daydreaming | LLM Daydreaming
 - https://arxiv.org/abs/2507.11473 | Chain of Thought Monitorability
