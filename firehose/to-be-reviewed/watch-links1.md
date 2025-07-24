@@ -1,5 +1,11 @@
 # Watch Links 1
 
+
+## Set 2
+- [Rethinking RAG from first principles for agents](https://maven.com/p/be969c/rethinking-rag-from-first-principles-for-agents)
+- [Stanford CS336 Language Modeling from Scratch](https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)
+
+## Set 1
 - [UC Berkely CS294/194-196 Large Language Model Agents](https://rdi.berkeley.edu/llm-agents/f24)
 - [UC Berkely CS294/194-280 Advanced Large Language Model Agents](https://rdi.berkeley.edu/adv-llm-agents/sp25)
 - Foundational AI

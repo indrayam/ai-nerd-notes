@@ -1,6 +1,21 @@
 # Onetab Links
 
+## Set 14
+- https://hazelweakly.me/blog/stop-building-ai-tools-backwards/ | Stop Building AI Tools Backwards
+- https://jessleao.substack.com/p/machinereadable-internet | Machine Readable Internet
+- https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf | America's AI Action Plan
+- https://blog.eladgil.com/p/ai-market-clarity | AI Market Clarity
+- https://x.com/akshay_pachaar/status/1947272862211219964?s=43 | Transformers vs. Mixture of Experts in LLMs
+- https://www.epicai.pro/build-responsive-mcp-servers | Build Responsive MCP Servers with EpicAI
+- https://towardsdatascience.com/your-personal-analytics-toolbox/ | Your personal toolbox analytics
+- https://towardsdatascience.com/building-a-%d1%81ustom-mcp-chatbot/ | Building a Custom MCP Chatbot
+- https://x.com/_avichawla/status/1947184607277019582 | 4 Stages of training LLMs
+- https://x.com/Aurimas_Gr/status/1947260424983855195 | Agentic RAG + MCP
+- https://github.com/Meirtz/Awesome-Context-Engineering | Awesome Context Engineering
+- https://x.com/akshay_pachaar/status/1946926773918429249?s=43 | MCP Security
+
 ## Set 13
+- https://arxiv.org/pdf/2507.13334 | A survey of Context Engineering for Large Language Models
 - https://linear.app/blog/mercury-linear-ai-agents | Inside Mercury’s six-month journey building with AI agents
 - https://twitter.com/aaditsh/status/1945583029629718667 | AI for Beginners video
 - https://x.com/sama/status/1945541270438646270 | AI Wisdom from Sam Altman
