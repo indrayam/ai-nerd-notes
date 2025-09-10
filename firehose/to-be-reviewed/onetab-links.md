@@ -1,6 +1,20 @@
 # Onetab Links
 
 ## Set 14
+- https://sebastianraschka.com/teaching/pytorch-1h/ | PyTorch 1-Hour Course
+- https://menlovc.com/perspective/2025-mid-year-llm-market-update/ | 2025 Mid-Year LLM Market Update from Menlo Ventures
+- https://www.sequoiacap.com/article/ai-powered-developer-tools/ | AI-Powered Developer Tools
+- https://x.com/sergeykarayev/status/1949883217773052132 | "Did you know that Claude Code can use the browser to QA its own work?"
+- https://www.freecodecamp.org/news/beginners-guide-to-langchain/ | How to Use LangChain to Build With LLMs – A Beginner's Guide
+- https://cisco.sharepoint.com/sites/SecurityandTrustOrganization/SitePages/START-Program.aspx | Security Trust AI Research Taskforce (START)
+- https://cset.georgetown.edu/publication/through-the-chat-window-and-into-the-real-world-preparing-for-ai-agents/ | Through the Chat Window and into the Real World: Preparing for AI Agents
+- https://www.runllm.com/blog/got-ai-budget-80-of-ai-projects-fail | Got AI Budget? 80% of AI Projects Fail
+- https://medium.com/intuitionmachine/the-hierarchical-reasoning-model-through-the-lens-of-quaternion-process-theory-thinking-fast-and-1fc948dad97f | The Hierarchical Reasoning Model through the Lens of Quaternion Process Theory: Thinking Fast and Slow
+- https://www.robertmao.com/blog/en/the-future-is-not-self-hosted-but-self-sovereign | The Future is not Self-Hosted, but Self-Sovereign
+- https://devblogs.microsoft.com/devops/from-manual-testing-to-ai-generated-automation-our-azure-devops-mcp-playwright-success-story/ | From Manual Testing to AI-Generated Automation: Our Azure DevOps MCP Playwright Success Story
+- https://vercel.com/blog/model-context-protocol-mcp-explained | Model Context Protocol (MCP) Explained
+- https://x.com/rileybrown_ai/status/1948846549913796650 | Claude Code is the best LLM for coding
+- https://www.marktechpost.com/2025/07/22/context-engineering-for-ai-agents-key-lessons-from-manus/?amp | Context Engineering for AI Agents: Key Lessons from Manus
 - https://hazelweakly.me/blog/stop-building-ai-tools-backwards/ | Stop Building AI Tools Backwards
 - https://jessleao.substack.com/p/machinereadable-internet | Machine Readable Internet
 - https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf | America's AI Action Plan
