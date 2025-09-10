@@ -2,7 +2,7 @@
 
 ## Keeping up with AI Trends (Firehose)
 - Safari
-  - [_Recorded Safari Live Events](https://learning.oreilly.com/live-events/your-recordings/?page=1)
+  - [_Recorded Safari Live Events_](https://learning.oreilly.com/live-events/your-recordings/?page=1)
   - [_ai-agents_](https://learning.oreilly.com/playlists/490a3bab-0063-49f7-a14a-ef54cde6e88d/) Playlist
 - Udemy
   - [_Udemy My Learning_](https://cisco.udemy.com/home/my-courses/learning/)
